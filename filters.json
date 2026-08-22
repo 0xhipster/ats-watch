@@ -1,0 +1,58 @@
+{
+  "_comment": "Case-insensitive regex, matched against lowercased title and location. Tune these first, they decide your signal-to-noise ratio.",
+
+  "title_include": [
+    "growth",
+    "community",
+    "marketing",
+    "\\bgtm\\b",
+    "go.to.market",
+    "partnership",
+    "ecosystem",
+    "brand",
+    "content",
+    "social media",
+    "lifecycle",
+    "demand gen",
+    "campaign",
+    "developer relations",
+    "\\bdevrel\\b",
+    "developer advocate",
+    "\\bkol\\b",
+    "creator",
+    "onboarding specialist"
+  ],
+
+  "title_exclude": [
+    "engineer",
+    "developer(?! relations| advocate)",
+    "\\bswe\\b",
+    "\\bsre\\b",
+    "data scientist",
+    "designer",
+    "\\bvp\\b",
+    "vice president",
+    "head of",
+    "director",
+    "chief",
+    "\\bcxo\\b",
+    "intern\\b",
+    "internship",
+    "principal",
+    "staff\\b",
+    "accountant",
+    "recruiter",
+    "account executive",
+    "sales development"
+  ],
+
+  "location_include": [
+    "bengaluru",
+    "bangalore",
+    "\\bblr\\b",
+    "remote",
+    "india",
+    "anywhere",
+    "distributed"
+  ]
+}
