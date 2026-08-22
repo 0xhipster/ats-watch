@@ -3,224 +3,256 @@
     "name": "Razorpay",
     "domain": "razorpay.com",
     "sector": "fintech",
-    "ats": null,
-    "method": "unresolved"
+    "ats": "greenhouse",
+    "method": "careers-page",
+    "slug": "razorpaysoftwareprivatelimited"
   },
   {
     "name": "CRED",
     "domain": "cred.club",
     "sector": "fintech",
-    "ats": null,
-    "method": "unresolved"
+    "ats": "lever",
+    "method": "endpoint-probe",
+    "slug": "cred"
   },
   {
     "name": "Groww",
     "domain": "groww.in",
     "sector": "fintech",
-    "ats": null,
-    "method": "unresolved"
+    "ats": "greenhouse",
+    "method": "endpoint-probe",
+    "slug": "groww"
   },
   {
     "name": "Zerodha",
     "domain": "zerodha.com",
     "sector": "fintech",
-    "ats": null,
-    "method": "unresolved"
+    "ats": "smartrecruiters",
+    "method": "endpoint-probe",
+    "slug": "zerodha"
   },
   {
     "name": "Jupiter",
     "domain": "jupiter.money",
     "sector": "fintech",
-    "ats": null,
-    "method": "unresolved"
+    "ats": "unsupported:keka",
+    "method": "careers-page",
+    "slug": "jupiter"
   },
   {
     "name": "Juspay",
     "domain": "juspay.in",
     "sector": "fintech",
-    "ats": null,
-    "method": "unresolved"
+    "ats": "workable",
+    "method": "endpoint-probe",
+    "slug": "juspay"
   },
   {
     "name": "Setu",
     "domain": "setu.co",
     "sector": "fintech",
-    "ats": null,
-    "method": "unresolved"
+    "ats": "workable",
+    "method": "endpoint-probe",
+    "slug": "setu"
   },
   {
     "name": "Decentro",
     "domain": "decentro.tech",
     "sector": "fintech",
-    "ats": null,
-    "method": "unresolved"
+    "ats": "workable",
+    "method": "endpoint-probe",
+    "slug": "decentro"
   },
   {
     "name": "M2P Fintech",
     "domain": "m2pfintech.com",
     "sector": "fintech",
-    "ats": null,
-    "method": "unresolved"
+    "ats": "smartrecruiters",
+    "method": "endpoint-probe",
+    "slug": "m2pfintech"
   },
   {
     "name": "Signzy",
     "domain": "signzy.com",
     "sector": "fintech",
-    "ats": null,
-    "method": "unresolved"
+    "ats": "unsupported:keka",
+    "method": "careers-page",
+    "slug": "signzy"
   },
   {
     "name": "Dodo Payments",
     "domain": "dodopayments.com",
     "sector": "fintech",
-    "ats": null,
-    "method": "unresolved"
+    "ats": "unsupported:pyjamahr",
+    "method": "careers-page",
+    "slug": "jobs"
   },
   {
     "name": "Freshworks",
     "domain": "freshworks.com",
     "sector": "saas",
-    "ats": null,
-    "method": "unresolved"
+    "ats": "smartrecruiters",
+    "method": "endpoint-probe",
+    "slug": "freshworks"
   },
   {
     "name": "Chargebee",
     "domain": "chargebee.com",
     "sector": "saas",
-    "ats": null,
-    "method": "unresolved"
+    "ats": "workable",
+    "method": "endpoint-probe",
+    "slug": "chargebee"
   },
   {
     "name": "BrowserStack",
     "domain": "browserstack.com",
     "sector": "saas",
-    "ats": null,
-    "method": "unresolved"
+    "ats": "workable",
+    "method": "endpoint-probe",
+    "slug": "browserstack"
   },
   {
     "name": "Postman",
     "domain": "postman.com",
     "sector": "saas",
-    "ats": null,
-    "method": "unresolved"
+    "ats": "greenhouse",
+    "method": "endpoint-probe",
+    "slug": "postman"
   },
   {
     "name": "Whatfix",
     "domain": "whatfix.com",
     "sector": "saas",
-    "ats": null,
-    "method": "unresolved"
+    "ats": "smartrecruiters",
+    "method": "endpoint-probe",
+    "slug": "whatfix"
   },
   {
     "name": "CleverTap",
     "domain": "clevertap.com",
     "sector": "saas",
-    "ats": null,
-    "method": "unresolved"
+    "ats": "unsupported:darwinbox",
+    "method": "careers-page",
+    "slug": "clevertap"
   },
   {
     "name": "Hasura",
     "domain": "hasura.io",
     "sector": "saas",
-    "ats": null,
-    "method": "unresolved"
+    "ats": "smartrecruiters",
+    "method": "endpoint-probe",
+    "slug": "hasura"
   },
   {
     "name": "Atlan",
     "domain": "atlan.com",
     "sector": "saas",
-    "ats": null,
-    "method": "unresolved"
+    "ats": "ashby",
+    "method": "endpoint-probe",
+    "slug": "atlan"
   },
   {
     "name": "Sprinto",
     "domain": "sprinto.com",
     "sector": "saas",
-    "ats": null,
-    "method": "unresolved"
+    "ats": "workable",
+    "method": "endpoint-probe",
+    "slug": "sprinto"
   },
   {
     "name": "Zluri",
     "domain": "zluri.com",
     "sector": "saas",
-    "ats": null,
-    "method": "unresolved"
+    "ats": "unsupported:keka",
+    "method": "careers-page",
+    "slug": "zluri"
   },
   {
     "name": "Sarvam AI",
     "domain": "sarvam.ai",
     "sector": "ai",
-    "ats": null,
-    "method": "unresolved"
+    "ats": "ashby",
+    "method": "careers-page",
+    "slug": "sarvam"
   },
   {
     "name": "Portkey",
     "domain": "portkey.ai",
     "sector": "ai",
-    "ats": null,
-    "method": "unresolved"
+    "ats": "smartrecruiters",
+    "method": "endpoint-probe",
+    "slug": "portkey"
   },
   {
     "name": "Composio",
     "domain": "composio.dev",
     "sector": "ai",
-    "ats": null,
-    "method": "unresolved"
+    "ats": "ashby",
+    "method": "careers-page",
+    "slug": "composio"
   },
   {
     "name": "Maxim AI",
     "domain": "getmaxim.ai",
     "sector": "ai",
-    "ats": null,
-    "method": "unresolved"
+    "ats": "smartrecruiters",
+    "method": "endpoint-probe",
+    "slug": "getmaxim"
   },
   {
     "name": "Simplismart",
     "domain": "simplismart.ai",
     "sector": "ai",
-    "ats": null,
-    "method": "unresolved"
+    "ats": "smartrecruiters",
+    "method": "endpoint-probe",
+    "slug": "simplismart"
   },
   {
     "name": "Transak",
     "domain": "transak.com",
     "sector": "crypto",
-    "ats": null,
-    "method": "unresolved"
+    "ats": "workable",
+    "method": "endpoint-probe",
+    "slug": "transak"
   },
   {
     "name": "CoinDCX",
     "domain": "coindcx.com",
     "sector": "crypto",
-    "ats": null,
-    "method": "unresolved"
+    "ats": "smartrecruiters",
+    "method": "endpoint-probe",
+    "slug": "coindcx"
   },
   {
     "name": "Polygon",
     "domain": "polygon.technology",
     "sector": "crypto",
-    "ats": null,
-    "method": "unresolved"
+    "ats": "workable",
+    "method": "endpoint-probe",
+    "slug": "polygon"
   },
   {
     "name": "Biconomy",
     "domain": "biconomy.io",
     "sector": "crypto",
-    "ats": null,
-    "method": "unresolved"
+    "ats": "workable",
+    "method": "endpoint-probe",
+    "slug": "biconomy"
   },
   {
     "name": "Tangem",
     "domain": "tangem.com",
     "sector": "crypto",
-    "ats": null,
-    "method": "unresolved"
+    "ats": "workable",
+    "method": "endpoint-probe",
+    "slug": "tangem"
   },
   {
     "name": "Okto",
     "domain": "okto.tech",
     "sector": "crypto",
-    "ats": null,
-    "method": "unresolved"
+    "ats": "smartrecruiters",
+    "method": "endpoint-probe",
+    "slug": "okto"
   }
 ]

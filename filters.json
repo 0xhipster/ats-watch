@@ -42,6 +42,7 @@
     "staff\\b",
     "accountant",
     "recruiter",
+    "talent (researcher|acquisition|partner)",
     "account executive",
     "sales development"
   ],

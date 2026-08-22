@@ -106,9 +106,7 @@ def probe_endpoints(domain):
 
 
 def resolve(company):
-    if isinstance(company, str):
-        return None, None, "invalid"
-    domain = company.get("domain")
+    domain = company if isinstance(company, str) else company.get("domain")
     if not domain:
         return None, None, "no-domain"
     ats, slug = trace_careers_page(domain)
@@ -118,6 +116,7 @@ def resolve(company):
     if ats:
         return ats, slug, "endpoint-probe"
     return None, None, "unresolved"
+
 
 def main():
     recheck = "--recheck" in sys.argv
