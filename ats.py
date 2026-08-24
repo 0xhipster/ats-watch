@@ -159,12 +159,19 @@ def fetch_jobs(ats, slug, company):
 
 
 def probe(ats, slug):
-    """Return job count if this ats/slug pair is a live public board, else None."""
+    """Return job count if this ats/slug pair is a live public board, else None.
+
+    A count of 0 is returned as 0, not None: the account name exists but has
+    no open roles. Callers must decide whether to accept a zero-role board —
+    do not treat 0 as equivalent to a resolved, watchable company. An empty
+    board is far more often a same-name unrelated account than the real
+    company with no jobs open right now.
+    """
     try:
         data, _ = _get(board_url(ats, slug))
-    except (urllib.error.HTTPError, urllib.error.URLError, json.JSONDecodeError, TimeoutError):
-        return None
-    except Exception:
+    except (urllib.error.HTTPError, urllib.error.URLError,
+            urllib.error.ContentTooShortError, json.JSONDecodeError,
+            TimeoutError, ConnectionError, UnicodeDecodeError) as e:
         return None
     if ats == "lever":
         return len(data) if isinstance(data, list) else None

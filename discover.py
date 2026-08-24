@@ -58,19 +58,41 @@ def slug_candidates(domain):
     parts = base.split(".")
     if len(parts) > 2:
         cands.append("".join(parts[:-1]))
+
+    # Case matters. Lever board slugs are case-sensitive: Sprinto's board is
+    # at jobs.lever.co/Sprinto, and probing "sprinto" returns nothing. So for
+    # every candidate, try lowercase AND capitalised. Previously this function
+    # forced .lower() on everything, which silently made every capitalised
+    # Lever board unreachable.
     seen, out = set(), []
     for c in cands:
-        c = c.lower()
-        if c and c not in seen:
-            seen.add(c)
-            out.append(c)
+        if not c:
+            continue
+        for variant in (c.lower(), c.capitalize()):
+            if variant not in seen:
+                seen.add(variant)
+                out.append(variant)
     return out
 
 
 def trace_careers_page(domain):
     """Method 1. Returns (ats, slug) or (unsupported_name, slug) or (None, None)."""
-    for path in ("/careers", "/jobs", "/careers/", "/company/careers"):
-        url = f"https://{domain}{path}"
+    base = domain.replace("www.", "")
+
+    # Many companies host hiring on a career SUBDOMAIN, not a path:
+    # jobs.chargebee.com, careers.zerodha.com. Checking only <domain>/careers
+    # missed this entire category. Subdomains are tried first because when
+    # they exist they are the canonical board.
+    urls = [
+        f"https://careers.{base}",
+        f"https://jobs.{base}",
+        f"https://{domain}/careers",
+        f"https://{domain}/jobs",
+        f"https://{domain}/careers/",
+        f"https://{domain}/company/careers",
+    ]
+
+    for url in urls:
         try:
             html, final_url = ats_lib._get(url, expect_json=False)
         except Exception:
@@ -90,18 +112,32 @@ def trace_careers_page(domain):
 
 
 def probe_endpoints(domain):
-    """Method 2. Returns (ats, slug) or (None, None)."""
+    """Method 2. Returns (ats, slug) or (None, None).
+
+    A board that returns 0 roles is NOT accepted as a match. An empty board
+    is much more often an unrelated account that happens to share the guessed
+    slug name than the real company with nothing open right now. Rejecting
+    zero-role boards trades a small chance of missing a company that
+    genuinely has zero open roles today for a much larger reduction in
+    false-positive slug matches — worth it, since a wrong slug silently
+    watches nothing forever, while a real company with zero roles today will
+    resolve correctly the next time discover.py re-runs after they post one.
+    """
     best = None
+    zero_role_hits = []
     for slug in slug_candidates(domain):
         for platform in ats_lib.SUPPORTED:
             count = ats_lib.probe(platform, slug)
-            if count is not None:
-                # a board with roles beats an empty one
+            if count is not None and count > 0:
                 if best is None or count > best[2]:
                     best = (platform, slug, count)
+            elif count == 0:
+                zero_role_hits.append(f"{platform}/{slug}")
             time.sleep(0.15)
     if best:
         return best[0], best[1]
+    if zero_role_hits:
+        print(f"    (rejected zero-role match(es): {', '.join(zero_role_hits)})")
     return None, None
 
 
@@ -135,7 +171,12 @@ def main():
             print(f"  {status} {c['name']:<24} {ats}/{slug}  ({method})")
             resolved += 1
         else:
-            c["ats"] = c.get("ats")
+            # Clear any stale ats/slug from a prior bad resolution. Do NOT
+            # reuse c.get("ats") here — that was the bug: it silently kept
+            # an old false-positive slug on disk even though this run
+            # correctly determined the company is unresolved.
+            c["ats"] = None
+            c["slug"] = None
             c["method"] = "unresolved"
             print(f"  --  {c['name']:<24} no public board found")
             failed += 1

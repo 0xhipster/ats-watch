@@ -1,0 +1,70 @@
+name: watch-ats
+
+# Second lane: Keka, Darwinbox, Workday, freshteam, breezy, pyjamahr.
+# This one calls a PAID Apify actor, so it runs DAILY, not every 30 minutes
+# like the free direct poller in watch.yml. Roughly $0.05 per run.
+
+on:
+  schedule:
+    # 03:30 UTC = 09:00 IST. Once a day.
+    - cron: "30 3 * * *"
+  workflow_dispatch:
+    inputs:
+      seed:
+        description: "Mark all currently open roles as seen without alerting"
+        type: boolean
+        default: false
+      dry_run:
+        description: "Print matches only. Still calls the API, still costs."
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: watch-ats
+  cancel-in-progress: false
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fail fast if APIFY_TOKEN is missing
+        env:
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+        run: |
+          if [ -z "$APIFY_TOKEN" ]; then
+            echo "APIFY_TOKEN secret is not set. Add it under"
+            echo "Settings > Secrets and variables > Actions."
+            exit 1
+          fi
+          echo "APIFY_TOKEN is present."
+
+      - name: Poll non-standard ATS boards
+        env:
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          if [ "${{ inputs.seed }}" = "true" ]; then
+            python3 watch_ats.py --seed
+          elif [ "${{ inputs.dry_run }}" = "true" ]; then
+            python3 watch_ats.py --dry-run
+          else
+            python3 watch_ats.py
+          fi
+
+      - name: Commit state
+        run: |
+          git config user.name "ats-watch"
+          git config user.email "actions@github.com"
+          git add state/seen_ats.json digest_ats.md || true
+          git diff --staged --quiet || git commit -m "ats state: $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push

@@ -37,9 +37,7 @@
     "sector": "fintech",
     "ats": "unsupported:keka",
     "slug": "jupiter",
-    "method": "careers-page",
-    "board_platform": "keka",
-    "board_url": "https://jupiter.keka.com/careers"
+    "method": "careers-page"
   },
   {
     "name": "Juspay",
@@ -79,9 +77,7 @@
     "sector": "fintech",
     "ats": "unsupported:keka",
     "slug": "signzy",
-    "method": "careers-page",
-    "board_platform": "keka",
-    "board_url": "https://signzy.keka.com/careers"
+    "method": "careers-page"
   },
   {
     "name": "Dodo Payments",
@@ -89,9 +85,7 @@
     "sector": "fintech",
     "ats": "unsupported:pyjamahr",
     "slug": "app",
-    "method": "careers-page",
-    "board_platform": "pyjamahr",
-    "board_url": "https://app.pyjamahr.com/careers?company=Dodo%20Payments&company_uuid=A7852EF4A2&isHeaderVisible=true&is_careers_page=true"
+    "method": "careers-page"
   },
   {
     "name": "Freshworks",
@@ -107,9 +101,7 @@
     "sector": "saas",
     "ats": null,
     "slug": null,
-    "method": "unresolved",
-    "board_platform": "successfactors",
-    "board_url": "https://jobs.chargebee.com:443/"
+    "method": "unresolved"
   },
   {
     "name": "BrowserStack",
@@ -117,9 +109,7 @@
     "sector": "saas",
     "ats": null,
     "slug": null,
-    "method": "unresolved",
-    "board_platform": "workday",
-    "board_url": "https://browserstack.wd3.myworkdayjobs.com/External"
+    "method": "unresolved"
   },
   {
     "name": "Postman",
@@ -143,9 +133,7 @@
     "sector": "saas",
     "ats": "unsupported:darwinbox",
     "slug": "clevertap",
-    "method": "careers-page",
-    "board_platform": "darwinbox",
-    "board_url": "https://clevertap.darwinbox.in"
+    "method": "careers-page"
   },
   {
     "name": "Hasura",
@@ -177,9 +165,7 @@
     "sector": "saas",
     "ats": "unsupported:keka",
     "slug": "zluri",
-    "method": "careers-page",
-    "board_platform": "freshteam",
-    "board_url": "https://zluri.freshteam.com"
+    "method": "careers-page"
   },
   {
     "name": "Sarvam AI",
@@ -227,9 +213,7 @@
     "sector": "crypto",
     "ats": null,
     "slug": null,
-    "method": "unresolved",
-    "board_platform": "breezy",
-    "board_url": "https://transak.breezy.hr"
+    "method": "unresolved"
   },
   {
     "name": "CoinDCX",
@@ -325,9 +309,7 @@
     "sector": "consulting",
     "ats": null,
     "slug": null,
-    "method": "unresolved",
-    "board_platform": null,
-    "board_url": null
+    "method": "unresolved"
   },
   {
     "name": "Pine Labs",
@@ -367,9 +349,7 @@
     "sector": "fintech",
     "ats": "unsupported:pyjamahr",
     "slug": "app",
-    "method": "careers-page",
-    "board_platform": "pyjamahr",
-    "board_url": "https://app.pyjamahr.com/careers?company=smallcase&company_uuid=2615584222"
+    "method": "careers-page"
   },
   {
     "name": "Amazon",
@@ -426,179 +406,5 @@
     "ats": "greenhouse",
     "slug": "coinbase",
     "method": "endpoint-probe"
-  },
-  {
-    "name": "BiteSpeed",
-    "domain": "bitespeed.co",
-    "sector": "saas",
-    "ats": null,
-    "slug": null,
-    "method": "unresolved"
-  },
-  {
-    "name": "Wobot AI",
-    "domain": "wobot.ai",
-    "sector": "ai",
-    "ats": null,
-    "slug": null,
-    "method": "unresolved"
-  },
-  {
-    "name": "Amnic",
-    "domain": "amnic.com",
-    "sector": "saas",
-    "ats": null,
-    "slug": null,
-    "method": "unresolved"
-  },
-  {
-    "name": "Atomicwork",
-    "domain": "atomicwork.com",
-    "sector": "ai",
-    "ats": "greenhouse",
-    "slug": "atomicwork",
-    "method": "endpoint-probe"
-  },
-  {
-    "name": "InVideo",
-    "domain": "invideo.io",
-    "sector": "ai",
-    "ats": null,
-    "slug": null,
-    "method": "unresolved"
-  },
-  {
-    "name": "OrbitShift",
-    "domain": "orbitshift.ai",
-    "sector": "ai",
-    "ats": null,
-    "slug": null,
-    "method": "unresolved"
-  },
-  {
-    "name": "Procol",
-    "domain": "procol.ai",
-    "sector": "saas",
-    "ats": null,
-    "slug": null,
-    "method": "unresolved"
-  },
-  {
-    "name": "RapidCanvas",
-    "domain": "rapidcanvas.ai",
-    "sector": "ai",
-    "ats": null,
-    "slug": null,
-    "method": "unresolved"
-  },
-  {
-    "name": "Shipsy",
-    "domain": "shipsy.io",
-    "sector": "saas",
-    "ats": "smartrecruiters",
-    "slug": "shipsy",
-    "method": "endpoint-probe"
-  },
-  {
-    "name": "FirstClub",
-    "domain": "firstclub.co.in",
-    "sector": "consumer",
-    "ats": null,
-    "slug": null,
-    "method": "unresolved"
-  },
-  {
-    "name": "Awfis",
-    "domain": "awfis.com",
-    "sector": "consumer",
-    "ats": "unsupported:keka",
-    "slug": "awfis",
-    "method": "careers-page",
-    "board_platform": "keka",
-    "board_url": "https://awfis.keka.com/careers"
-  },
-  {
-    "name": "Clarisights",
-    "domain": "clarisights.com",
-    "sector": "saas",
-    "ats": "ashby",
-    "slug": "clarisights",
-    "method": "careers-page"
-  },
-  {
-    "name": "Cognizant",
-    "domain": "cognizant.com",
-    "sector": "consulting",
-    "ats": null,
-    "slug": null,
-    "method": "unresolved"
-  },
-  {
-    "name": "Darwinbox",
-    "domain": "darwinbox.com",
-    "sector": "saas",
-    "ats": "unsupported:darwinbox",
-    "slug": "explore",
-    "method": "careers-page",
-    "board_platform": null,
-    "board_url": null
-  },
-  {
-    "name": "FloBiz",
-    "domain": "flobiz.in",
-    "sector": "fintech",
-    "ats": "unsupported:keka",
-    "slug": "valorem",
-    "method": "careers-page",
-    "board_platform": "keka",
-    "board_url": "https://valorem.keka.com/careers"
-  },
-  {
-    "name": "GlobalLogic",
-    "domain": "globallogic.com",
-    "sector": "consulting",
-    "ats": null,
-    "slug": null,
-    "method": "unresolved"
-  },
-  {
-    "name": "Hevo Data",
-    "domain": "hevodata.com",
-    "sector": "saas",
-    "ats": "lever",
-    "slug": "hevodata",
-    "method": "careers-page"
-  },
-  {
-    "name": "SentinelOne",
-    "domain": "sentinelone.com",
-    "sector": "saas",
-    "ats": null,
-    "slug": null,
-    "method": "unresolved"
-  },
-  {
-    "name": "SaaS Labs",
-    "domain": "saaslabs.co",
-    "sector": "saas",
-    "ats": null,
-    "slug": null,
-    "method": "unresolved"
-  },
-  {
-    "name": "Sirion",
-    "domain": "sirion.ai",
-    "sector": "saas",
-    "ats": null,
-    "slug": null,
-    "method": "unresolved"
-  },
-  {
-    "name": "Tracxn",
-    "domain": "tracxn.com",
-    "sector": "saas",
-    "ats": null,
-    "slug": null,
-    "method": "unresolved"
   }
 ]

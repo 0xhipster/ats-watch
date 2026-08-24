@@ -1,6 +1,5 @@
 {
   "_comment": "Case-insensitive regex, matched against lowercased title and location. Tune these first, they decide your signal-to-noise ratio.",
-
   "title_include": [
     "growth",
     "community",
@@ -18,11 +17,9 @@
     "developer relations",
     "\\bdevrel\\b",
     "developer advocate",
-    "\\bkol\\b",
     "creator",
     "onboarding specialist"
   ],
-
   "title_exclude": [
     "engineer",
     "developer(?! relations| advocate)",
@@ -46,7 +43,6 @@
     "account executive",
     "sales development"
   ],
-
   "location_include": [
     "bengaluru",
     "bangalore",

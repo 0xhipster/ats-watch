@@ -1,0 +1,24 @@
+# Peak XV portfolio - batch 1
+# Duplicates already in companies.json (Sarvam, Atlan, Chargebee,
+# CleverTap, Freshworks, Whatfix) are omitted.
+BiteSpeed, bitespeed.co, saas
+Wobot AI, wobot.ai, ai
+Amnic, amnic.com, saas
+Atomicwork, atomicwork.com, ai
+InVideo, invideo.io, ai
+OrbitShift, orbitshift.ai, ai
+Procol, procol.ai, saas
+RapidCanvas, rapidcanvas.ai, ai
+Shipsy, shipsy.io, saas
+FirstClub, firstclub.co.in, consumer
+Awfis, awfis.com, consumer
+Clarisights, clarisights.com, saas
+Cognizant, cognizant.com, consulting
+Darwinbox, darwinbox.com, saas
+FloBiz, flobiz.in, fintech
+GlobalLogic, globallogic.com, consulting
+Hevo Data, hevodata.com, saas
+SentinelOne, sentinelone.com, saas
+SaaS Labs, saaslabs.co, saas
+Sirion, sirion.ai, saas
+Tracxn, tracxn.com, saas
