@@ -1,24 +1,54 @@
-# Peak XV portfolio - batch 1
-# Duplicates already in companies.json (Sarvam, Atlan, Chargebee,
-# CleverTap, Freshworks, Whatfix) are omitted.
-BiteSpeed, bitespeed.co, saas
-Wobot AI, wobot.ai, ai
-Amnic, amnic.com, saas
-Atomicwork, atomicwork.com, ai
-InVideo, invideo.io, ai
-OrbitShift, orbitshift.ai, ai
-Procol, procol.ai, saas
-RapidCanvas, rapidcanvas.ai, ai
-Shipsy, shipsy.io, saas
-FirstClub, firstclub.co.in, consumer
-Awfis, awfis.com, consumer
-Clarisights, clarisights.com, saas
-Cognizant, cognizant.com, consulting
-Darwinbox, darwinbox.com, saas
-FloBiz, flobiz.in, fintech
-GlobalLogic, globallogic.com, consulting
-Hevo Data, hevodata.com, saas
-SentinelOne, sentinelone.com, saas
-SaaS Labs, saaslabs.co, saas
-Sirion, sirion.ai, saas
-Tracxn, tracxn.com, saas
+# Fintech-focused VC portfolio batch
+Ambak, ambak.com, fintech
+Aptus Housing Finance, aptusindia.com, fintech
+Bajaj Holdings, bhil.in, fintech
+BankBazaar, bankbazaar.com, fintech
+BharatPe, bharatpe.com, fintech
+Bright, brightmoney.co, fintech
+Citrus Payment, payu.in, fintech
+ClearTax, cleartax.in, fintech
+CoinSwitch, coinswitch.co, fintech
+Cybrilla, cybrilla.com, fintech
+Digit Insurance, godigit.com, fintech
+Drip Capital, dripcapital.com, fintech
+Edelweiss, edelweissfin.com, fintech
+Equitas, equitasbank.com, fintech
+FamApp, famapp.in, fintech
+Finova Capital, finova.in, fintech
+Fintellix, fintellix.com, fintech
+Five Star Business Finance, fivestargroup.in, fintech
+GoKwik, gokwik.co, fintech
+GoodScore, goodscore.app, fintech
+Happay, happay.com, fintech
+Hubble, myhubble.money, fintech
+ICRA, icra.in, fintech
+Ignosis AI, ignosis.ai, fintech
+India Shelter Finance, indiashelter.in, fintech
+Khatabook, khatabook.com, fintech
+Manappuram, manappuram.com, fintech
+Metropolitan Stock Exchange, msei.in, fintech
+MobiKwik, mobikwik.com, fintech
+Neo Wealth, neo-wealth.com, fintech
+Nimbbl, nimbbl.biz, fintech
+OneAssist, oneassist.in, fintech
+OneCard, getonecard.app, fintech
+Osfin, osfin.ai, fintech
+PayGlocal, payglocal.in, fintech
+Plum, plumhq.com, fintech
+PowerUp Money, powerup.money, fintech
+Prayaan Capital, prayaancapital.com, fintech
+Prizm, hitachi-payments.com, fintech
+ProgCap, progcap.com, fintech
+Rupeek, rupeek.com, fintech
+Salaryse, salaryse.com, fintech
+Sarvagram, sarvagram.com, fintech
+Scapia, scapia.cards, fintech
+SKS Microfinance, bfil.co.in, fintech
+Stable Money, stablemoney.in, fintech
+Star Health, starhealth.in, fintech
+Turtlemint, turtlemint.com, fintech
+Twid, twidpay.com, fintech
+Ujjivan, ujjivansfb.in, fintech
+Yubi, go-yubi.com, fintech
+Zanskar, zanskar.xyz, fintech
+Zet, zetapp.in, fintech

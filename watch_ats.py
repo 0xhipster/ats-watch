@@ -53,7 +53,7 @@ ACTOR = "memo23~career-site-ats-jobs-api"
 ENDPOINT = (f"https://api.apify.com/v2/acts/{ACTOR}"
             "/run-sync-get-dataset-items")
 MAX_ROWS = 100        # free plan caps runs at 100 rows anyway
-PER_COMPANY_CAP = 12  # so one big board cannot starve the rest of the list
+PER_COMPANY_CAP = 6  # so one big board cannot starve the rest of the list
 TIMEOUT = 300         # the actor can take a couple of minutes
 
 
