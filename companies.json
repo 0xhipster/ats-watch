@@ -723,9 +723,9 @@
     "name": "FamApp",
     "domain": "famapp.in",
     "sector": "fintech",
-    "ats": null,
-    "slug": null,
-    "method": "unresolved"
+    "ats": "lever",
+    "slug": "fampay",
+    "method": "manual-verified"
   },
   {
     "name": "Finova Capital",
