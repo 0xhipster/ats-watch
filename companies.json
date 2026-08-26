@@ -977,9 +977,9 @@
     "name": "Stable Money",
     "domain": "stablemoney.in",
     "sector": "fintech",
-    "ats": null,
-    "slug": null,
-    "method": "unresolved"
+    "ats": "lever",
+    "slug": "stable-money1",
+    "method": "manual-verified"
   },
   {
     "name": "Star Health",
