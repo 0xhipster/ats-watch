@@ -1,4 +1,10 @@
-# New matches, 2026-08-25 10:03 UTC
+# New matches, 2026-08-26 14:25 UTC
 
-- **CRED** | capital partnerships | bengaluru, mumbai
-  https://jobs.lever.co/cred/5b8e2c1a-06eb-4127-914f-db56b3078158
+- **FamApp** | Brand Marketing Manager | Bengaluru
+  https://jobs.lever.co/fampay/54c74111-28a1-44bf-ad9d-72312f3c64a9
+- **FamApp** | Business & Partnerships Associate | Bengaluru
+  https://jobs.lever.co/fampay/76e5974a-aa6f-4342-81f3-2a99821c2adc
+- **Stable Money** | GM - Growth & Retention | Bengaluru
+  https://jobs.lever.co/stable-money1/2516d9d2-0e26-4387-9736-d7f0aa977cbe
+- **Stable Money** | New User Acquisition & Growth | Bengaluru
+  https://jobs.lever.co/stable-money1/a2b36af8-1398-446d-a58b-6013a9fb8771
