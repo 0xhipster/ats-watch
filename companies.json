@@ -1038,5 +1038,37 @@
     "ats": null,
     "slug": null,
     "method": "unresolved"
+  },
+  {
+    "name": "Atlas",
+    "domain": "atlashxm.com",
+    "sector": "saas",
+    "ats": "ashby",
+    "slug": "atlas",
+    "method": "manual-verified"
+  },
+  {
+    "name": "Bounce",
+    "domain": "bouncedaily.in",
+    "sector": "consumer",
+    "ats": "ashby",
+    "slug": "Bounce",
+    "method": "manual-verified"
+  },
+  {
+    "name": "Captain Fresh",
+    "domain": "captainfresh.com",
+    "sector": "saas",
+    "ats": "smartrecruiters",
+    "slug": "captainfresh",
+    "method": "manual-verified"
+  },
+  {
+    "name": "Vaya",
+    "domain": "vaya.in",
+    "sector": "fintech",
+    "ats": "greenhouse",
+    "slug": "vaya",
+    "method": "manual-verified"
   }
 ]
