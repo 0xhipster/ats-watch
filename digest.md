@@ -1,4 +1,4 @@
-# New matches, 2026-08-28 21:52 UTC
+# New matches, 2026-08-29 13:32 UTC
 
-- **Coinbase** | Product Marketing Manager, Prime & Markets | Remote - USA
-  https://www.coinbase.com/careers/positions/7572514?gh_jid=7572514
+- **Atlas** | Email Marketing Operations Consultant – Contract | New York
+  https://jobs.ashbyhq.com/atlas/685686cb-5fc7-4dd9-83e6-f63c5368b798
