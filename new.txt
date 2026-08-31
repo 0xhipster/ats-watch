@@ -1,8 +1,48 @@
-# Accel portfolio batch 2 (Hermes-sourced) - confirmed direct ATS hits
-# Bluestone excluded: the Greenhouse board found is a US medical practice
-# (Bluestone Physician Services), not the Indian jewelry brand - same-name
-# collision, not the real company. Swiggy already in companies.json - omitted.
-Atlas, atlashxm.com, saas
-Bounce, bouncedaily.in, consumer
-Captain Fresh, captainfresh.com, saas
-Vaya, vaya.in, fintech
+# Accel portfolio - browser-verified batch (confirmed real via live check, not guessed)
+# Excludes: companies already in companies.json, Indonesia/Africa-focused (Astro,
+# Gently, Xendit, Zed, Pave Bank - not India-relevant), and fakes caught during
+# verification (Akridata, Anar, ApnaMart, Arivihan, August AI, Binocs, Fibmold,
+# Finbots.AI, Finrep, First Club, Fixxly, GlowRoad, Gut Wellness Club, Innovist,
+# Knight Fintech, Locofy, Maverix, Mech Mocha, Oolka, Powerup Money, Pred,
+# Presentations.ai, SureWaves, The Lafz, Travelstop, Trinkerr, USPL Wrogn,
+# Uni Cards, Virgio, Xalts)
+ANSR, ansr.com, saas
+Aavenir, aavenir.com, saas
+Acko, acko.com, fintech
+Agrostar, agrostar.in, agritech
+Airmeet, airmeet.com, saas
+Axio, axiobio.com, healthtech
+Bachatt, bachatt.app, fintech
+BestDoc, bestdocapp.com, healthtech
+Credgenics, credgenics.com, fintech
+Cult.fit, cure.fit, consumer
+Curefoods, curefoods.in, foodtech
+EduPristine, edupristine.com, edtech
+FabHotels, fabhotels.com, consumer
+Fabheads, fabheads.com, deeptech
+Fashinza, fashinza.com, saas
+Forus Health, forushealth.com, healthtech
+Fundly, fundly.ai, fintech
+Hashnode, hashnode.com, saas
+HouseEazy, houseeazy.com, proptech
+Indifi, indifi.com, fintech
+Jify, jify.co, fintech
+KGeN, kgen.io, gaming
+LetsVenture, letsventure.com, fintech
+Nabhdrishti Aerospace, nabhdrishti.in, deeptech
+Nurix AI, nurix.ai, ai
+RecommerceX, recommercex.com, consumer
+Rocket, rocket.new, saas
+Sahi, sahi.com, fintech
+Sarla Aviation, sarla-aviation.com, deeptech
+Scimplify, scimplify.com, chemicals
+Seezo, seezo.io, saas
+Spinny, spinny.com, consumer
+Supabase, supabase.com, saas
+Swish, justswish.in, consumer
+Uppercase, uppercase.co.in, consumer
+UrbanCompany, urbancompany.com, consumer
+Vedantu, vedantu.com, edtech
+Venwiz, venwiz.com, saas
+Vinculum, vinculumgroup.com, saas
+Zetwerk, zetwerk.com, manufacturing

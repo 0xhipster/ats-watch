@@ -599,7 +599,9 @@
     "sector": "saas",
     "ats": null,
     "slug": null,
-    "method": "unresolved"
+    "method": "unresolved",
+    "board_platform": "zoho_recruit",
+    "board_url": "https://tracxn.zohorecruit.com/careers"
   },
   {
     "name": "Ambak",
@@ -1064,11 +1066,401 @@
     "method": "manual-verified"
   },
   {
-    "name": "Vaya",
-    "domain": "vaya.in",
+    "name": "Bizongo",
+    "domain": "bizongo.com",
+    "sector": "saas",
+    "board_platform": "darwinbox",
+    "board_url": "https://bizongo.darwinbox.in",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "CityMall",
+    "domain": "citymall.in",
+    "sector": "consumer",
+    "board_platform": "darwinbox",
+    "board_url": "https://citymall.darwinbox.in",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "HomeLane",
+    "domain": "homelane.com",
+    "sector": "consumer",
+    "board_platform": "darwinbox",
+    "board_url": "https://homelane.darwinbox.in/ms/candidatev2/a6817a5ec3524e/careers/allJobs",
+    "ats": "unsupported:darwinbox",
+    "slug": "homelane",
+    "method": "careers-page"
+  },
+  {
+    "name": "Jiraaf",
+    "domain": "jiraaf.com",
     "sector": "fintech",
-    "ats": "greenhouse",
-    "slug": "vaya",
-    "method": "manual-verified"
+    "board_platform": "keka",
+    "board_url": "https://jiraaf.keka.com/careers",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Material Depot",
+    "domain": "materialdepot.in",
+    "sector": "saas",
+    "board_platform": "keka",
+    "board_url": "https://materialdepot.keka.com/careers",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Truemeds",
+    "domain": "truemeds.in",
+    "sector": "consumer",
+    "board_platform": "keka",
+    "board_url": "https://truemeds.keka.com/careers",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Unmannd",
+    "domain": "unmannd.in",
+    "sector": "saas",
+    "board_platform": "zoho_recruit",
+    "board_url": "https://unmannd.zohorecruit.com/careers",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Zolve",
+    "domain": "zolve.com",
+    "sector": "fintech",
+    "board_platform": "freshteam",
+    "board_url": "https://zolve.freshteam.com/jobs",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "ANSR",
+    "domain": "ansr.com",
+    "sector": "saas",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Aavenir",
+    "domain": "aavenir.com",
+    "sector": "saas",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Acko",
+    "domain": "acko.com",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Agrostar",
+    "domain": "agrostar.in",
+    "sector": "agritech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Airmeet",
+    "domain": "airmeet.com",
+    "sector": "saas",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Axio",
+    "domain": "axiobio.com",
+    "sector": "healthtech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Bachatt",
+    "domain": "bachatt.app",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "BestDoc",
+    "domain": "bestdocapp.com",
+    "sector": "healthtech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Credgenics",
+    "domain": "credgenics.com",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Curefoods",
+    "domain": "curefoods.in",
+    "sector": "foodtech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "EduPristine",
+    "domain": "edupristine.com",
+    "sector": "edtech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "FabHotels",
+    "domain": "fabhotels.com",
+    "sector": "consumer",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Fabheads",
+    "domain": "fabheads.com",
+    "sector": "deeptech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Fashinza",
+    "domain": "fashinza.com",
+    "sector": "saas",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Forus Health",
+    "domain": "forushealth.com",
+    "sector": "healthtech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Fundly",
+    "domain": "fundly.ai",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Hashnode",
+    "domain": "hashnode.com",
+    "sector": "saas",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "HouseEazy",
+    "domain": "houseeazy.com",
+    "sector": "proptech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Indifi",
+    "domain": "indifi.com",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Jify",
+    "domain": "jify.co",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "KGeN",
+    "domain": "kgen.io",
+    "sector": "gaming",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "LetsVenture",
+    "domain": "letsventure.com",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Nabhdrishti Aerospace",
+    "domain": "nabhdrishti.in",
+    "sector": "deeptech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Nurix AI",
+    "domain": "nurix.ai",
+    "sector": "ai",
+    "ats": null,
+    "slug": null,
+    "method": null,
+    "board_platform": "keka",
+    "board_url": "https://nurix.keka.com/careers/"
+  },
+  {
+    "name": "RecommerceX",
+    "domain": "recommercex.com",
+    "sector": "consumer",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Rocket",
+    "domain": "rocket.new",
+    "sector": "saas",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Sahi",
+    "domain": "sahi.com",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Sarla Aviation",
+    "domain": "sarla-aviation.com",
+    "sector": "deeptech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Scimplify",
+    "domain": "scimplify.com",
+    "sector": "chemicals",
+    "ats": "unsupported:keka",
+    "slug": "scimplify",
+    "method": "careers-page",
+    "board_platform": "keka",
+    "board_url": "https://scimplify.keka.com/careers"
+  },
+  {
+    "name": "Seezo",
+    "domain": "seezo.io",
+    "sector": "saas",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Spinny",
+    "domain": "spinny.com",
+    "sector": "consumer",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Supabase",
+    "domain": "supabase.com",
+    "sector": "saas",
+    "ats": "ashby",
+    "slug": "supabase",
+    "method": "careers-page"
+  },
+  {
+    "name": "Swish",
+    "domain": "justswish.in",
+    "sector": "consumer",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Uppercase",
+    "domain": "uppercase.co.in",
+    "sector": "consumer",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "UrbanCompany",
+    "domain": "urbancompany.com",
+    "sector": "consumer",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Vedantu",
+    "domain": "vedantu.com",
+    "sector": "edtech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Venwiz",
+    "domain": "venwiz.com",
+    "sector": "saas",
+    "ats": "unsupported:keka",
+    "slug": "venwiztechnologies",
+    "method": "careers-page",
+    "board_platform": "keka",
+    "board_url": "https://venwiztechnologies.keka.com/careers"
+  },
+  {
+    "name": "Vinculum",
+    "domain": "vinculumgroup.com",
+    "sector": "saas",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Zetwerk",
+    "domain": "zetwerk.com",
+    "sector": "manufacturing",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
   }
 ]

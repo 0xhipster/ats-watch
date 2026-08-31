@@ -179,7 +179,7 @@
     "slug": "zluri",
     "method": "careers-page",
     "board_platform": "freshteam",
-    "board_url": "https://zluri.freshteam.com"
+    "board_url": "https://www.freshteam.com"
   },
   {
     "name": "Sarvam AI",
@@ -229,7 +229,7 @@
     "slug": null,
     "method": "unresolved",
     "board_platform": "breezy",
-    "board_url": "https://transak.breezy.hr"
+    "board_url": "https://assets-cdn.breezy.hr"
   },
   {
     "name": "CoinDCX",
@@ -326,8 +326,8 @@
     "ats": null,
     "slug": null,
     "method": "unresolved",
-    "board_platform": null,
-    "board_url": null
+    "board_platform": "workday",
+    "board_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers"
   },
   {
     "name": "Pine Labs",
@@ -540,8 +540,8 @@
     "ats": "unsupported:darwinbox",
     "slug": "explore",
     "method": "careers-page",
-    "board_platform": null,
-    "board_url": null
+    "board_platform": "darwinbox",
+    "board_url": "https://explore.darwinbox.in"
   },
   {
     "name": "FloBiz",
@@ -599,6 +599,534 @@
     "sector": "saas",
     "ats": null,
     "slug": null,
+    "method": "unresolved",
+    "board_platform": "zoho_recruit",
+    "board_url": "https://tracxn.zohorecruit.com/careers"
+  },
+  {
+    "name": "Ambak",
+    "domain": "ambak.com",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
     "method": "unresolved"
+  },
+  {
+    "name": "Aptus Housing Finance",
+    "domain": "aptusindia.com",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Bajaj Holdings",
+    "domain": "bhil.in",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "BankBazaar",
+    "domain": "bankbazaar.com",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "BharatPe",
+    "domain": "bharatpe.com",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved",
+    "board_platform": "darwinbox",
+    "board_url": "https://bharatpe.darwinbox.in/ms/candidatev2/main/careers/allJobs"
+  },
+  {
+    "name": "Bright",
+    "domain": "brightmoney.co",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Citrus Payment",
+    "domain": "payu.in",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "ClearTax",
+    "domain": "cleartax.in",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved",
+    "board_platform": "darwinbox",
+    "board_url": "https://clear.darwinbox.in/ms/candidatev2/main/careers/allJobs"
+  },
+  {
+    "name": "CoinSwitch",
+    "domain": "coinswitch.co",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Cybrilla",
+    "domain": "cybrilla.com",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Digit Insurance",
+    "domain": "godigit.com",
+    "sector": "fintech",
+    "ats": "unsupported:darwinbox",
+    "slug": "godigit",
+    "method": "careers-page",
+    "board_platform": "darwinbox",
+    "board_url": "https://godigit.darwinbox.in"
+  },
+  {
+    "name": "Drip Capital",
+    "domain": "dripcapital.com",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Edelweiss",
+    "domain": "edelweissfin.com",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Equitas",
+    "domain": "equitasbank.com",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "FamApp",
+    "domain": "famapp.in",
+    "sector": "fintech",
+    "ats": "lever",
+    "slug": "fampay",
+    "method": "manual-verified"
+  },
+  {
+    "name": "Finova Capital",
+    "domain": "fplabs.tech",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Fintellix",
+    "domain": "fintellix.com",
+    "sector": "fintech",
+    "ats": "unsupported:zoho",
+    "slug": "fintellix",
+    "method": "careers-page",
+    "board_platform": "zoho_recruit",
+    "board_url": "https://fintellix.zohorecruit.in/jobs/Careers"
+  },
+  {
+    "name": "Five Star Business Finance",
+    "domain": "fivestargroup.in",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "GoKwik",
+    "domain": "gokwik.co",
+    "sector": "fintech",
+    "ats": "unsupported:keka",
+    "slug": "gokwik",
+    "method": "careers-page",
+    "board_platform": "keka",
+    "board_url": "https://gokwik.keka.com/careers"
+  },
+  {
+    "name": "GoodScore",
+    "domain": "goodscore.app",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Happay",
+    "domain": "happay.com",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Hubble",
+    "domain": "myhubble.money",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "ICRA",
+    "domain": "icra.in",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Ignosis AI",
+    "domain": "ignosis.ai",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "India Shelter Finance",
+    "domain": "indiashelter.in",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Khatabook",
+    "domain": "khatabook.com",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Manappuram",
+    "domain": "manappuram.com",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Metropolitan Stock Exchange",
+    "domain": "msei.in",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "MobiKwik",
+    "domain": "mobikwik.com",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved",
+    "board_platform": "darwinbox",
+    "board_url": "https://mobikwik.darwinbox.in/ms/candidatev2/main/careers/home"
+  },
+  {
+    "name": "Neo Wealth",
+    "domain": "neo-wealth.com",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Nimbbl",
+    "domain": "nimbbl.biz",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "OneAssist",
+    "domain": "oneassist.in",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "OneCard",
+    "domain": "getonecard.app",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Osfin",
+    "domain": "osfin.ai",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "PayGlocal",
+    "domain": "payglocal.in",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Plum",
+    "domain": "plumhq.com",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "PowerUp Money",
+    "domain": "powerup.money",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Prayaan Capital",
+    "domain": "prayaancapital.com",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Prizm",
+    "domain": "hitachi-payments.com",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "ProgCap",
+    "domain": "progcap.com",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Rupeek",
+    "domain": "rupeek.com",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Salaryse",
+    "domain": "salaryse.com",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Sarvagram",
+    "domain": "sarvagram.com",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Scapia",
+    "domain": "scapia.cards",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "SKS Microfinance",
+    "domain": "bfil.co.in",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Stable Money",
+    "domain": "stablemoney.in",
+    "sector": "fintech",
+    "ats": "lever",
+    "slug": "stable-money1",
+    "method": "manual-verified"
+  },
+  {
+    "name": "Star Health",
+    "domain": "starhealth.in",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Turtlemint",
+    "domain": "turtlemint.com",
+    "sector": "fintech",
+    "ats": "smartrecruiters",
+    "slug": "turtlemint",
+    "method": "endpoint-probe"
+  },
+  {
+    "name": "Twid",
+    "domain": "twidpay.com",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Ujjivan",
+    "domain": "ujjivansfb.in",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Yubi",
+    "domain": "go-yubi.com",
+    "sector": "fintech",
+    "ats": "unsupported:zoho",
+    "slug": "go-yubi",
+    "method": "careers-page",
+    "board_platform": "zoho_recruit",
+    "board_url": "https://go-yubi.zohorecruit.in/jobs/Careers"
+  },
+  {
+    "name": "Zanskar",
+    "domain": "zanskar.xyz",
+    "sector": "fintech",
+    "ats": "lever",
+    "slug": "Zanskar",
+    "method": "endpoint-probe"
+  },
+  {
+    "name": "Zet",
+    "domain": "zetapp.in",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Atlas",
+    "domain": "atlashxm.com",
+    "sector": "saas",
+    "ats": "ashby",
+    "slug": "atlas",
+    "method": "manual-verified"
+  },
+  {
+    "name": "Bounce",
+    "domain": "bouncedaily.in",
+    "sector": "consumer",
+    "ats": "ashby",
+    "slug": "Bounce",
+    "method": "manual-verified"
+  },
+  {
+    "name": "Captain Fresh",
+    "domain": "captainfresh.com",
+    "sector": "saas",
+    "ats": "smartrecruiters",
+    "slug": "captainfresh",
+    "method": "manual-verified"
+  },
+  {
+    "name": "Vaya",
+    "domain": "vaya.in",
+    "sector": "fintech",
+    "ats": "greenhouse",
+    "slug": "vaya",
+    "method": "manual-verified"
+  },
+  {
+    "name": "Bizongo",
+    "domain": "bizongo.com",
+    "sector": "saas",
+    "board_platform": "darwinbox",
+    "board_url": "https://bizongo.darwinbox.in"
+  },
+  {
+    "name": "CityMall",
+    "domain": "citymall.in",
+    "sector": "consumer",
+    "board_platform": "darwinbox",
+    "board_url": "https://citymall.darwinbox.in"
+  },
+  {
+    "name": "HomeLane",
+    "domain": "homelane.com",
+    "sector": "consumer",
+    "board_platform": "darwinbox",
+    "board_url": "https://homelane.darwinbox.in/ms/candidatev2/a6817a5ec3524e/careers/allJobs"
+  },
+  {
+    "name": "Jiraaf",
+    "domain": "jiraaf.com",
+    "sector": "fintech",
+    "board_platform": "keka",
+    "board_url": "https://jiraaf.keka.com/careers"
+  },
+  {
+    "name": "Material Depot",
+    "domain": "materialdepot.in",
+    "sector": "saas",
+    "board_platform": "keka",
+    "board_url": "https://materialdepot.keka.com/careers"
+  },
+  {
+    "name": "Truemeds",
+    "domain": "truemeds.in",
+    "sector": "consumer",
+    "board_platform": "keka",
+    "board_url": "https://truemeds.keka.com/careers"
+  },
+  {
+    "name": "Unmannd",
+    "domain": "unmannd.in",
+    "sector": "saas",
+    "board_platform": "zoho_recruit",
+    "board_url": "https://unmannd.zohorecruit.com/careers"
+  },
+  {
+    "name": "Zolve",
+    "domain": "zolve.com",
+    "sector": "fintech",
+    "board_platform": "freshteam",
+    "board_url": "https://zolve.freshteam.com/jobs"
   }
 ]
