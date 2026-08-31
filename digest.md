@@ -1,4 +1,4 @@
-# New matches, 2026-08-29 13:32 UTC
+# New matches, 2026-08-31 09:02 UTC
 
-- **Atlas** | Email Marketing Operations Consultant – Contract | New York
-  https://jobs.ashbyhq.com/atlas/685686cb-5fc7-4dd9-83e6-f63c5368b798
+- **Swiggy** | Senior GTM Manager- (Product) | Bengaluru, KA, in
+  https://jobs.smartrecruiters.com/swiggy/6000000001363859
