@@ -473,7 +473,9 @@
     "sector": "ai",
     "ats": null,
     "slug": null,
-    "method": "unresolved"
+    "method": "unresolved",
+    "board_platform": "zoho_recruit",
+    "board_url": "https://orbitshift.zohorecruit.in/jobs/Careers"
   },
   {
     "name": "Procol",
@@ -489,7 +491,9 @@
     "sector": "ai",
     "ats": null,
     "slug": null,
-    "method": "unresolved"
+    "method": "unresolved",
+    "board_platform": "keka",
+    "board_url": "https://rapidcanvas.keka.com/careers/"
   },
   {
     "name": "Shipsy",
@@ -1181,9 +1185,9 @@
     "name": "Airmeet",
     "domain": "airmeet.com",
     "sector": "saas",
-    "ats": null,
-    "slug": null,
-    "method": "unresolved"
+    "ats": "workable",
+    "slug": "airmeet",
+    "method": "manual-verified"
   },
   {
     "name": "Axio",
@@ -1213,9 +1217,9 @@
     "name": "Credgenics",
     "domain": "credgenics.com",
     "sector": "fintech",
-    "ats": null,
-    "slug": null,
-    "method": "unresolved"
+    "ats": "smartrecruiters",
+    "slug": "credgenics",
+    "method": "manual-verified"
   },
   {
     "name": "Curefoods",
@@ -1229,9 +1233,9 @@
     "name": "EduPristine",
     "domain": "edupristine.com",
     "sector": "edtech",
-    "ats": null,
-    "slug": null,
-    "method": "unresolved"
+    "ats": "workable",
+    "slug": "edupristine",
+    "method": "manual-verified"
   },
   {
     "name": "FabHotels",
@@ -1253,9 +1257,9 @@
     "name": "Fashinza",
     "domain": "fashinza.com",
     "sector": "saas",
-    "ats": null,
-    "slug": null,
-    "method": "unresolved"
+    "ats": "workable",
+    "slug": "fashinza",
+    "method": "manual-verified"
   },
   {
     "name": "Forus Health",
@@ -1269,17 +1273,17 @@
     "name": "Fundly",
     "domain": "fundly.ai",
     "sector": "fintech",
-    "ats": null,
-    "slug": null,
-    "method": "unresolved"
+    "ats": "workable",
+    "slug": "fundly",
+    "method": "manual-verified"
   },
   {
     "name": "Hashnode",
     "domain": "hashnode.com",
     "sector": "saas",
-    "ats": null,
-    "slug": null,
-    "method": "unresolved"
+    "ats": "workable",
+    "slug": "hashnode",
+    "method": "manual-verified"
   },
   {
     "name": "HouseEazy",
@@ -1301,25 +1305,25 @@
     "name": "Jify",
     "domain": "jify.co",
     "sector": "fintech",
-    "ats": null,
-    "slug": null,
-    "method": "unresolved"
+    "ats": "workable",
+    "slug": "jify",
+    "method": "manual-verified"
   },
   {
     "name": "KGeN",
     "domain": "kgen.io",
     "sector": "gaming",
-    "ats": null,
-    "slug": null,
-    "method": "unresolved"
+    "ats": "workable",
+    "slug": "kgen",
+    "method": "manual-verified"
   },
   {
     "name": "LetsVenture",
     "domain": "letsventure.com",
     "sector": "fintech",
-    "ats": null,
-    "slug": null,
-    "method": "unresolved"
+    "ats": "workable",
+    "slug": "letsventure",
+    "method": "manual-verified"
   },
   {
     "name": "Nabhdrishti Aerospace",
@@ -1409,25 +1413,25 @@
     "name": "Swish",
     "domain": "justswish.in",
     "sector": "consumer",
-    "ats": null,
-    "slug": null,
-    "method": "unresolved"
+    "ats": "workable",
+    "slug": "swish",
+    "method": "manual-verified"
   },
   {
     "name": "Uppercase",
     "domain": "uppercase.co.in",
     "sector": "consumer",
-    "ats": null,
-    "slug": null,
-    "method": "unresolved"
+    "ats": "workable",
+    "slug": "uppercase",
+    "method": "manual-verified"
   },
   {
     "name": "UrbanCompany",
     "domain": "urbancompany.com",
     "sector": "consumer",
-    "ats": null,
-    "slug": null,
-    "method": "unresolved"
+    "ats": "smartrecruiters",
+    "slug": "urbancompany",
+    "method": "manual-verified"
   },
   {
     "name": "Vedantu",
