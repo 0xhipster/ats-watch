@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-02T10:04:51.923295+00:00",
+"updated": "2026-09-02T10:37:02.582420+00:00",
 "uids": [
 "ashby:Bounce:018c40be-f9eb-46ca-84fa-90de5bf9f97c",
 "ashby:Bounce:0ef5aac0-cd80-463e-9ea1-679c29d96552",
@@ -146,6 +146,7 @@
 "ashby:spotdraft:f6893f39-eb70-4854-8b95-7d4c7ff1799a",
 "ashby:spotdraft:fcf8da74-e8f4-439c-808e-7b42e59550e1",
 "ashby:spotdraft:fd4baa7d-e222-4a1b-a395-b103d1ad5198",
+"ashby:supabase:06752423-eebb-472c-95b5-c7ff2559fd60",
 "ashby:supabase:11beb619-0c25-4b11-9818-3f18e278c65b",
 "ashby:supabase:142135ae-a15f-4ec7-90bb-cb4e7968bc09",
 "ashby:supabase:180257c0-ad46-4fae-b34f-36d8ddc2fe2e",
@@ -953,6 +954,8 @@
 "smartrecruiters:Freshworks:744000146922959",
 "smartrecruiters:Freshworks:744000146929149",
 "smartrecruiters:Freshworks:744000146933519",
+"smartrecruiters:Freshworks:744000146946799",
+"smartrecruiters:Freshworks:744000146946999",
 "smartrecruiters:captainfresh:743999745255741",
 "smartrecruiters:captainfresh:743999745255816",
 "smartrecruiters:captainfresh:743999748402463",
