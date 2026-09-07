@@ -969,7 +969,9 @@
     "sector": "fintech",
     "ats": null,
     "slug": null,
-    "method": "unresolved"
+    "method": "unresolved",
+    "board_platform": "freshteam",
+    "board_url": "https://scapia.freshteam.com/jobs"
   },
   {
     "name": "SKS Microfinance",
@@ -1639,7 +1641,9 @@
     "sector": "edtech",
     "ats": null,
     "slug": null,
-    "method": "unresolved"
+    "method": "unresolved",
+    "board_platform": "darwinbox",
+    "board_url": "https://pwhr.darwinbox.in/ms/candidate/a62d7a6e288992/careers/others"
   },
   {
     "name": "Pixxel",
@@ -1723,7 +1727,9 @@
     "sector": "deeptech",
     "ats": null,
     "slug": null,
-    "method": "unresolved"
+    "method": "unresolved",
+    "board_platform": "keka",
+    "board_url": "https://solarsquare.keka.com/careers"
   },
   {
     "name": "Teachmint",
