@@ -1,48 +1,48 @@
-# Accel portfolio - browser-verified batch (confirmed real via live check, not guessed)
-# Excludes: companies already in companies.json, Indonesia/Africa-focused (Astro,
-# Gently, Xendit, Zed, Pave Bank - not India-relevant), and fakes caught during
-# verification (Akridata, Anar, ApnaMart, Arivihan, August AI, Binocs, Fibmold,
-# Finbots.AI, Finrep, First Club, Fixxly, GlowRoad, Gut Wellness Club, Innovist,
-# Knight Fintech, Locofy, Maverix, Mech Mocha, Oolka, Powerup Money, Pred,
-# Presentations.ai, SureWaves, The Lafz, Travelstop, Trinkerr, USPL Wrogn,
-# Uni Cards, Virgio, Xalts)
-ANSR, ansr.com, saas
-Aavenir, aavenir.com, saas
-Acko, acko.com, fintech
-Agrostar, agrostar.in, agritech
-Airmeet, airmeet.com, saas
-Axio, axiobio.com, healthtech
-Bachatt, bachatt.app, fintech
-BestDoc, bestdocapp.com, healthtech
-Credgenics, credgenics.com, fintech
-Cult.fit, cure.fit, consumer
-Curefoods, curefoods.in, foodtech
-EduPristine, edupristine.com, edtech
-FabHotels, fabhotels.com, consumer
-Fabheads, fabheads.com, deeptech
-Fashinza, fashinza.com, saas
-Forus Health, forushealth.com, healthtech
-Fundly, fundly.ai, fintech
-Hashnode, hashnode.com, saas
-HouseEazy, houseeazy.com, proptech
-Indifi, indifi.com, fintech
-Jify, jify.co, fintech
-KGeN, kgen.io, gaming
-LetsVenture, letsventure.com, fintech
-Nabhdrishti Aerospace, nabhdrishti.in, deeptech
-Nurix AI, nurix.ai, ai
-RecommerceX, recommercex.com, consumer
-Rocket, rocket.new, saas
-Sahi, sahi.com, fintech
-Sarla Aviation, sarla-aviation.com, deeptech
-Scimplify, scimplify.com, chemicals
-Seezo, seezo.io, saas
-Spinny, spinny.com, consumer
-Supabase, supabase.com, saas
-Swish, justswish.in, consumer
-Uppercase, uppercase.co.in, consumer
-UrbanCompany, urbancompany.com, consumer
-Vedantu, vedantu.com, edtech
-Venwiz, venwiz.com, saas
-Vinculum, vinculumgroup.com, saas
-Zetwerk, zetwerk.com, manufacturing
+# Lightspeed portfolio - self-corrected verification file, spot-checked live
+# Excludes: Acko/Bachatt/Zetwerk/Supabase/Sarvam/Stable Money/Razorpay/Yubi/Zolve
+# (already in companies.json), Apna/Healthplix/House of X/OKCredit/OYO/Solana/
+# Trackk (CONFIRMED_ERROR - fake or wrong page), CommandK/Dpanda/Foxy/FreshMenu/
+# ItzCash (CONFIRMED_UNFINDABLE - dead), Kalam Labs (name collision, ambiguous),
+# Pine Labs row (data error - LSIP sheet maps it to Setu, already in our file),
+# Byju's (troubled company, deprioritized), Darwinbox (the vendor itself, not
+# a company to work at)
+Acceldata, acceldata.io, saas
+Airbound, airbound.co, saas
+Bhanzu, bhanzu.com, edtech
+Bridgetown Research, bridgetownresearch.com, saas
+Centricity, centricity.co.in, saas
+Coral AI, trycoral.ai, healthtech
+Emergent, emergent.sh, ai
+Emversity, emversity.com, edtech
+Exponent Energy, exponent.energy, deeptech
+GlobalBees, globalbees.com, consumer
+Gushwork, gushwork.ai, ai
+Indian Energy Exchange, iexindia.com, fintech
+Innovaccer, innovaccer.com, healthtech
+LogicFlo AI, logicflo.ai, ai
+Magicpin, magicpin.in, consumer
+Mitti Labs, mitti-labs.com, agritech
+Mstack, mstack.ai, saas
+OfficeBanao, officebanao.com, consumer
+p0, p0.dev, saas
+Pepper Content, peppercontent.in, saas
+Physics Wallah, pw.live, edtech
+Pixxel, pixxel.space, deeptech
+Priority Vendor, c2fo.com, fintech
+Qure AI, qure.ai, healthtech
+RedotPay, redotpay.com, fintech
+Scrut Automation, scrut.io, saas
+ShareChat, sharechat.com, consumer
+Shivalik Small Finance Bank, shivalikbank.com, fintech
+Slikk, slikk.club, consumer
+Snabbit, snabbit.com, consumer
+SolarSquare, solarsquare.in, deeptech
+Teachmint, teachmint.com, edtech
+Tessell, tessell.com, saas
+Thena, thena.ai, saas
+Triomics, triomics.com, healthtech
+Vegrow, vegrow.in, agritech
+Wheelocity, wheelocity.com, agritech
+Xflow, xflowpay.com, fintech
+Yellow.ai, yellow.ai, ai
+Zepto, zepto.com, consumer

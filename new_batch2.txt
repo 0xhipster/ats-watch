@@ -1,0 +1,4 @@
+# Lightspeed update batch 2 - the 3 newly resolved from this round
+Level3 AI, thelevel.ai, ai
+Marqo AI, marqo.ai, ai
+Nexprt, nexprt.com, saas

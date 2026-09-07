@@ -1094,7 +1094,7 @@
     "domain": "homelane.com",
     "sector": "consumer",
     "board_platform": "darwinbox",
-    "board_url": "https://homelane.darwinbox.in/ms/candidatev2/a6817a5ec3524e/careers/allJobs",
+    "board_url": "https://homelane.darwinbox.in",
     "ats": "unsupported:darwinbox",
     "slug": "homelane",
     "method": "careers-page"
@@ -1144,7 +1144,7 @@
     "domain": "zolve.com",
     "sector": "fintech",
     "board_platform": "freshteam",
-    "board_url": "https://zolve.freshteam.com/jobs",
+    "board_url": "https://zolve.freshteam.com",
     "ats": null,
     "slug": null,
     "method": "unresolved"
@@ -1463,6 +1463,338 @@
     "name": "Zetwerk",
     "domain": "zetwerk.com",
     "sector": "manufacturing",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Acceldata",
+    "domain": "acceldata.io",
+    "sector": "saas",
+    "ats": "lever",
+    "slug": "acceldata",
+    "method": "careers-page"
+  },
+  {
+    "name": "Airbound",
+    "domain": "airbound.co",
+    "sector": "saas",
+    "ats": "ashby",
+    "slug": "airbound",
+    "method": "careers-page"
+  },
+  {
+    "name": "Bhanzu",
+    "domain": "bhanzu.com",
+    "sector": "edtech",
+    "ats": "unsupported:keka",
+    "slug": "exploringinfinities",
+    "method": "careers-page",
+    "board_platform": "keka",
+    "board_url": "https://exploringinfinities.keka.com/careers"
+  },
+  {
+    "name": "Bridgetown Research",
+    "domain": "bridgetownresearch.com",
+    "sector": "saas",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Centricity",
+    "domain": "centricity.co.in",
+    "sector": "saas",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Coral AI",
+    "domain": "trycoral.ai",
+    "sector": "healthtech",
+    "ats": "ashby",
+    "slug": "coralai",
+    "method": "manual-verified"
+  },
+  {
+    "name": "Emergent",
+    "domain": "emergent.sh",
+    "sector": "ai",
+    "ats": "greenhouse",
+    "slug": "emergentlabsinc",
+    "method": "careers-page"
+  },
+  {
+    "name": "Emversity",
+    "domain": "emversity.com",
+    "sector": "edtech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Exponent Energy",
+    "domain": "exponent.energy",
+    "sector": "deeptech",
+    "ats": "unsupported:keka",
+    "slug": "exponentenergy",
+    "method": "careers-page",
+    "board_platform": "keka",
+    "board_url": "https://exponentenergy.keka.com/careers"
+  },
+  {
+    "name": "GlobalBees",
+    "domain": "globalbees.com",
+    "sector": "consumer",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Gushwork",
+    "domain": "gushwork.ai",
+    "sector": "ai",
+    "ats": "lever",
+    "slug": "gushwork",
+    "method": "careers-page"
+  },
+  {
+    "name": "Indian Energy Exchange",
+    "domain": "iexindia.com",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Innovaccer",
+    "domain": "innovaccer.com",
+    "sector": "healthtech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "LogicFlo AI",
+    "domain": "logicflo.ai",
+    "sector": "ai",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Magicpin",
+    "domain": "magicpin.in",
+    "sector": "consumer",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Mitti Labs",
+    "domain": "mitti-labs.com",
+    "sector": "agritech",
+    "ats": "workable",
+    "slug": "mitti-labs",
+    "method": "manual-verified"
+  },
+  {
+    "name": "Mstack",
+    "domain": "mstack.ai",
+    "sector": "saas",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "OfficeBanao",
+    "domain": "officebanao.com",
+    "sector": "consumer",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "p0",
+    "domain": "p0.dev",
+    "sector": "saas",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Pepper Content",
+    "domain": "peppercontent.in",
+    "sector": "saas",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved",
+    "board_platform": "freshteam",
+    "board_url": "https://peppercontent-talent.freshteam.com"
+  },
+  {
+    "name": "Physics Wallah",
+    "domain": "pw.live",
+    "sector": "edtech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Pixxel",
+    "domain": "pixxel.space",
+    "sector": "deeptech",
+    "ats": "unsupported:darwinbox",
+    "slug": "pixxel",
+    "method": "careers-page",
+    "board_platform": "darwinbox",
+    "board_url": "https://pixxel.darwinbox.in"
+  },
+  {
+    "name": "Priority Vendor",
+    "domain": "c2fo.com",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Qure AI",
+    "domain": "qure.ai",
+    "sector": "healthtech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "RedotPay",
+    "domain": "redotpay.com",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Scrut Automation",
+    "domain": "scrut.io",
+    "sector": "saas",
+    "ats": "unsupported:keka",
+    "slug": "scrut",
+    "method": "careers-page",
+    "board_platform": "keka",
+    "board_url": "https://scrut.keka.com/careers"
+  },
+  {
+    "name": "ShareChat",
+    "domain": "sharechat.com",
+    "sector": "consumer",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Shivalik Small Finance Bank",
+    "domain": "shivalikbank.com",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Slikk",
+    "domain": "slikk.club",
+    "sector": "consumer",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Snabbit",
+    "domain": "snabbit.com",
+    "sector": "consumer",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "SolarSquare",
+    "domain": "solarsquare.in",
+    "sector": "deeptech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Teachmint",
+    "domain": "teachmint.com",
+    "sector": "edtech",
+    "ats": "unsupported:keka",
+    "slug": "teachmint",
+    "method": "careers-page",
+    "board_platform": "keka",
+    "board_url": "https://teachmint.keka.com/careers"
+  },
+  {
+    "name": "Tessell",
+    "domain": "tessell.com",
+    "sector": "saas",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Thena",
+    "domain": "thena.ai",
+    "sector": "saas",
+    "ats": "greenhouse",
+    "slug": "thena",
+    "method": "manual-verified-zero-roles"
+  },
+  {
+    "name": "Triomics",
+    "domain": "triomics.com",
+    "sector": "healthtech",
+    "ats": "ashby",
+    "slug": "triomics",
+    "method": "careers-page"
+  },
+  {
+    "name": "Vegrow",
+    "domain": "vegrow.in",
+    "sector": "agritech",
+    "ats": "smartrecruiters",
+    "slug": "vegrow",
+    "method": "endpoint-probe"
+  },
+  {
+    "name": "Wheelocity",
+    "domain": "wheelocity.com",
+    "sector": "agritech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Xflow",
+    "domain": "xflowpay.com",
+    "sector": "fintech",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Yellow.ai",
+    "domain": "yellow.ai",
+    "sector": "ai",
+    "ats": null,
+    "slug": null,
+    "method": "unresolved"
+  },
+  {
+    "name": "Zepto",
+    "domain": "zepto.com",
+    "sector": "consumer",
     "ats": null,
     "slug": null,
     "method": "unresolved"
