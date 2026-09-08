@@ -1,4 +1,4 @@
-# ats-watch
+﻿# ats-watch
 
 Polls public ATS posting endpoints for new roles matching a fixed profile, and
 alerts on Telegram. No API keys, no paid services, no database. State lives in
@@ -58,6 +58,11 @@ the prober weekly to pick up companies you have added.
 Append name, domain and sector to `companies.json`. Leave `ats` and `slug` out.
 The prober fills them in. Feed it your funding-news pipeline weekly, since a
 company that just raised is about to open roles.
+
+Company lists here are partly sourced with an AI agent that maps VC portfolio
+companies to their careers pages: [hermes-sourcing-agent](https://github.com/0xhipster/hermes-sourcing-agent).
+It verifies each match against the company's own domain before accepting it,
+rather than trusting an ATS API's HTTP 200 alone.
 
 ## Triage
 
