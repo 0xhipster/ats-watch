@@ -1,4 +1,4 @@
-# New matches, 2026-09-09 06:06 UTC
+# New matches, 2026-09-09 15:39 UTC
 
-- **Sprinto** | Partnerships Manager - US | Bengaluru
-  https://jobs.lever.co/Sprinto/61e21cb7-5a22-41a6-8fb1-d195a3a544ea
+- **Freshworks** | Marketing Operations Manager | Bengaluru, in
+  https://jobs.smartrecruiters.com/Freshworks/744000148549834
