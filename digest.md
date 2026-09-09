@@ -1,4 +1,4 @@
-# New matches, 2026-09-09 05:04 UTC
+# New matches, 2026-09-09 06:06 UTC
 
-- **Razorpay** | Associate Manager, Enterprise Partnerships  | Bengaluru
-  https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4731693005
+- **Sprinto** | Partnerships Manager - US | Bengaluru
+  https://jobs.lever.co/Sprinto/61e21cb7-5a22-41a6-8fb1-d195a3a544ea
