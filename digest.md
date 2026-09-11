@@ -1,4 +1,4 @@
-# New matches, 2026-09-09 15:39 UTC
+# New matches, 2026-09-11 09:37 UTC
 
-- **Freshworks** | Marketing Operations Manager | Bengaluru, in
-  https://jobs.smartrecruiters.com/Freshworks/744000148549834
+- **Emergent** | Growth Lead | Bengaluru
+  https://job-boards.greenhouse.io/emergentlabsinc/jobs/4322326009
