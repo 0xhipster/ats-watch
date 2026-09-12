@@ -1,4 +1,4 @@
-# New matches, 2026-09-11 09:37 UTC
+# New matches, 2026-09-12 16:04 UTC
 
-- **Emergent** | Growth Lead | Bengaluru
-  https://job-boards.greenhouse.io/emergentlabsinc/jobs/4322326009
+- **Swiggy** | City Growth Manager | Bengaluru, KA, in
+  https://jobs.smartrecruiters.com/swiggy/6000000001400034
