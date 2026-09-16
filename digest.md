@@ -1,4 +1,4 @@
-# New matches, 2026-09-16 10:12 UTC
+# New matches, 2026-09-16 15:05 UTC
 
-- **Emergent** | Content Creator | Bengaluru
-  https://job-boards.greenhouse.io/emergentlabsinc/jobs/4407931009
+- **Swiggy** | Executive Content | Bengaluru, KA, in
+  https://jobs.smartrecruiters.com/swiggy/6000000001414053
