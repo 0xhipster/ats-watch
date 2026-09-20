@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-20T10:18:44.368300+00:00",
+"updated": "2026-09-20T14:17:42.259389+00:00",
 "uids": [
 "ashby:Bounce:018c40be-f9eb-46ca-84fa-90de5bf9f97c",
 "ashby:Bounce:0ef5aac0-cd80-463e-9ea1-679c29d96552",
@@ -914,6 +914,7 @@
 "lever:Sprinto:a1f3493f-9ff3-4198-a265-c88b71ba4f3d",
 "lever:Sprinto:a5aef50c-0cd2-40aa-9e66-d096198755de",
 "lever:Sprinto:a5f26631-6667-4de5-b5d6-944959deeabf",
+"lever:Sprinto:a9ee3743-ad31-4df4-a334-d918a37c619b",
 "lever:Sprinto:acd12acc-902d-4cca-b0e4-6ec021df72c7",
 "lever:Sprinto:b325f825-726d-44b4-a622-36063ac04b78",
 "lever:Sprinto:bcef51d4-95cd-4345-bfd4-46219ad9110e",
@@ -1637,6 +1638,9 @@
 "smartrecruiters:swiggy:6000000001420701",
 "smartrecruiters:swiggy:6000000001420766",
 "smartrecruiters:swiggy:6000000001420809",
+"smartrecruiters:swiggy:6000000001420909",
+"smartrecruiters:swiggy:6000000001420914",
+"smartrecruiters:swiggy:6000000001420919",
 "smartrecruiters:turtlemint:743999777021127",
 "smartrecruiters:vegrow:743999763274453",
 "smartrecruiters:vegrow:743999763382411",
