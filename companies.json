@@ -291,17 +291,17 @@
     "name": "Curefit",
     "domain": "careers.cult.fit",
     "sector": "consumer",
-    "ats": null,
-    "slug": null,
-    "method": "unresolved"
+    "ats": "workable",
+    "slug": "careers",
+    "method": "endpoint-probe"
   },
   {
     "name": "Slice",
     "domain": "slice.bank.in",
     "sector": "fintech",
-    "ats": null,
-    "slug": null,
-    "method": "unresolved"
+    "ats": "greenhouse",
+    "slug": "slice",
+    "method": "endpoint-probe"
   },
   {
     "name": "Flipkart",
@@ -1339,9 +1339,9 @@
     "name": "Nurix AI",
     "domain": "nurix.ai",
     "sector": "ai",
-    "ats": null,
-    "slug": null,
-    "method": null,
+    "ats": "greenhouse",
+    "slug": "nurix",
+    "method": "endpoint-probe",
     "board_platform": "keka",
     "board_url": "https://nurix.keka.com/careers/"
   },
