@@ -1,4 +1,4 @@
-# New matches, 2026-09-22 12:56 UTC
+# New matches, 2026-09-22 17:29 UTC
 
-- **Swiggy** | Manager- Product GTM  | Bengaluru, KA, in
-  https://jobs.smartrecruiters.com/swiggy/6000000001428605
+- **Supabase** | AWS Partner Marketing Manager | Remote, Global
+  https://jobs.ashbyhq.com/supabase/8e4ddc16-6308-432a-acea-55709c15ddc7
