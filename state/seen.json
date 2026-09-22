@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-22T17:29:47.925603+00:00",
+"updated": "2026-09-22T20:24:57.975240+00:00",
 "uids": [
 "ashby:Bounce:018c40be-f9eb-46ca-84fa-90de5bf9f97c",
 "ashby:Bounce:0ef5aac0-cd80-463e-9ea1-679c29d96552",
@@ -92,6 +92,7 @@
 "ashby:coralai:bd499781-7230-4c2c-8370-86871baf305b",
 "ashby:coralai:ef7a3186-2158-47a6-85da-561b012163fd",
 "ashby:navi:1d79f6cb-65c4-471d-8e99-70ed868d842d",
+"ashby:navi:66a799fe-df85-4dc0-bca8-15940e7b8c76",
 "ashby:navi:8a66fff6-5ca4-4c58-951e-9555534f66eb",
 "ashby:navi:8fb91a5f-9b08-466f-9106-a0a391777160",
 "ashby:navi:94449bf6-f3af-4346-a3d7-a0b5d641d2d3",
@@ -99,6 +100,7 @@
 "ashby:navi:bf1ba85b-aca1-4a37-aedc-8f77e30fdd92",
 "ashby:navi:c0ef075b-b0ee-4f22-9d27-c8eda345ec19",
 "ashby:navi:cc6d60fb-bff3-42bf-90ac-7c00f4cee87c",
+"ashby:navi:e89a2b49-5a72-403b-94b5-07a3c8e2f5eb",
 "ashby:navi:f04ee2df-2e9d-4137-92d2-52ec725f015f",
 "ashby:sarvam:03a26f63-fd74-4a59-870d-21d49a0d331d",
 "ashby:sarvam:0632eb6b-e99c-4e31-9a6a-c3bd36fc8512",
@@ -574,6 +576,7 @@
 "greenhouse:coinbase:8211452",
 "greenhouse:coinbase:8211486",
 "greenhouse:coinbase:8211490",
+"greenhouse:coinbase:8212923",
 "greenhouse:coinbase:8221238",
 "greenhouse:coinbase:8221241",
 "greenhouse:coinbase:8221985",
@@ -1759,6 +1762,7 @@
 "smartrecruiters:swiggy:6000000001428503",
 "smartrecruiters:swiggy:6000000001428605",
 "smartrecruiters:swiggy:6000000001429087",
+"smartrecruiters:swiggy:6000000001429162",
 "smartrecruiters:turtlemint:743999777021127",
 "smartrecruiters:vegrow:743999763274453",
 "smartrecruiters:vegrow:743999763382411",
