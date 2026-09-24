@@ -1,6 +1,6 @@
-# New matches, 2026-09-23 12:39 UTC
+# New matches, 2026-09-24 06:57 UTC
 
-- **Razorpay** | Junior Associate, Brand Marketing | Bengaluru
-  https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4736977005
-- **SpotDraft** | Senior Content Marketing Manager | SpotDraft HQ, Bengaluru
-  https://jobs.ashbyhq.com/spotdraft/fac72e55-20eb-4d8f-8783-7f6d28df3504
+- **CRED** | credit card bill payments growth | bengaluru
+  https://jobs.lever.co/cred/b3fdba2a-802c-4e03-b445-5284c5e3c157
+- **Swiggy** | Senior Manager- Growth | Bengaluru, KA, in
+  https://jobs.smartrecruiters.com/swiggy/6000000001434065
