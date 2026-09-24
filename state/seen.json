@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-24T17:39:08.872052+00:00",
+"updated": "2026-09-24T20:56:54.807989+00:00",
 "uids": [
 "ashby:Bounce:018c40be-f9eb-46ca-84fa-90de5bf9f97c",
 "ashby:Bounce:0ef5aac0-cd80-463e-9ea1-679c29d96552",
@@ -590,6 +590,7 @@
 "greenhouse:coinbase:8222264",
 "greenhouse:coinbase:8222267",
 "greenhouse:coinbase:8223328",
+"greenhouse:coinbase:8224726",
 "greenhouse:coinbase:8224901",
 "greenhouse:coinbase:8227393",
 "greenhouse:emergentlabsinc:4028982009",
@@ -688,6 +689,11 @@
 "greenhouse:nurix:8826633002",
 "greenhouse:nurix:8826666002",
 "greenhouse:nurix:8834076002",
+"greenhouse:nurix:8842987002",
+"greenhouse:nurix:8843030002",
+"greenhouse:nurix:8843086002",
+"greenhouse:nurix:8843108002",
+"greenhouse:nurix:8843137002",
 "greenhouse:phonepe:4353886003",
 "greenhouse:phonepe:6574130003",
 "greenhouse:phonepe:7594427003",
