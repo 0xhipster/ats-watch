@@ -1,6 +1,6 @@
-# New matches, 2026-09-24 06:57 UTC
+# New matches, 2026-09-24 12:30 UTC
 
-- **CRED** | credit card bill payments growth | bengaluru
-  https://jobs.lever.co/cred/b3fdba2a-802c-4e03-b445-5284c5e3c157
-- **Swiggy** | Senior Manager- Growth | Bengaluru, KA, in
-  https://jobs.smartrecruiters.com/swiggy/6000000001434065
+- **Razorpay** | Senior Manager, Social Media Marketing | Bengaluru
+  https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4737535005
+- **CRED** | business development & partnerships – commercial lead | bengaluru
+  https://jobs.lever.co/cred/b532b595-bc8d-4b51-a2e6-7228ef1cabfc
