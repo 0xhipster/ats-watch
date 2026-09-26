@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-26T10:00:05.849486+00:00",
+"updated": "2026-09-26T14:14:35.149641+00:00",
 "uids": [
 "ashby:Bounce:018c40be-f9eb-46ca-84fa-90de5bf9f97c",
 "ashby:Bounce:0ef5aac0-cd80-463e-9ea1-679c29d96552",
@@ -961,6 +961,7 @@
 "greenhouse:razorpaysoftwareprivatelimited:4736132005",
 "greenhouse:razorpaysoftwareprivatelimited:4736136005",
 "greenhouse:razorpaysoftwareprivatelimited:4736141005",
+"greenhouse:razorpaysoftwareprivatelimited:4736154005",
 "greenhouse:razorpaysoftwareprivatelimited:4736955005",
 "greenhouse:razorpaysoftwareprivatelimited:4736959005",
 "greenhouse:razorpaysoftwareprivatelimited:4736977005",
@@ -1017,6 +1018,7 @@
 "lever:Sprinto:5e866b3b-5580-4f00-ad16-3bbf3beb0ea3",
 "lever:Sprinto:61e21cb7-5a22-41a6-8fb1-d195a3a544ea",
 "lever:Sprinto:6317f326-3e05-4e5f-8f49-80ef4b5ffe34",
+"lever:Sprinto:640fd9e7-76d3-463a-9c0c-7f31fc3a4c6f",
 "lever:Sprinto:71158459-781d-43bd-984c-f16af3b503fa",
 "lever:Sprinto:71e0e630-0859-431c-8f85-7e65553343c8",
 "lever:Sprinto:7741921b-bf0b-49ed-8d23-9e3d1b5882b0",
@@ -1838,6 +1840,10 @@
 "smartrecruiters:swiggy:6000000001438700",
 "smartrecruiters:swiggy:6000000001439100",
 "smartrecruiters:swiggy:6000000001439112",
+"smartrecruiters:swiggy:6000000001439142",
+"smartrecruiters:swiggy:6000000001439199",
+"smartrecruiters:swiggy:6000000001439222",
+"smartrecruiters:swiggy:6000000001439245",
 "smartrecruiters:turtlemint:743999777021127",
 "smartrecruiters:vegrow:743999763274453",
 "smartrecruiters:vegrow:743999763382411",
