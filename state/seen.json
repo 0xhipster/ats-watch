@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T07:21:14.710461+00:00",
+"updated": "2026-09-27T13:10:57.865446+00:00",
 "uids": [
 "ashby:Bounce:018c40be-f9eb-46ca-84fa-90de5bf9f97c",
 "ashby:Bounce:0ef5aac0-cd80-463e-9ea1-679c29d96552",
@@ -1003,6 +1003,7 @@
 "greenhouse:slice:8220122",
 "lever:Sprinto:0c1dd527-2960-4377-96f9-353309cf6b85",
 "lever:Sprinto:151dd41f-692b-4c2f-a599-f5301e53b84b",
+"lever:Sprinto:1880a0c2-4378-473e-9868-25710741dd28",
 "lever:Sprinto:1a993c12-6e8f-41e1-8b1a-06c93be1e053",
 "lever:Sprinto:1f125470-f45b-408e-8368-038d51b82388",
 "lever:Sprinto:24691575-e46e-4d9f-a07a-137d1d84ea55",
