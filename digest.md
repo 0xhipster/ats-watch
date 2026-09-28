@@ -1,4 +1,4 @@
-# New matches, 2026-09-26 14:14 UTC
+# New matches, 2026-09-28 16:34 UTC
 
-- **Swiggy** | Manager - Growth & Storefront  | Bengaluru, KA, in
-  https://jobs.smartrecruiters.com/swiggy/6000000001439222
+- **Swiggy** | City Growth Manager | Bengaluru, KA, in
+  https://jobs.smartrecruiters.com/swiggy/6000000001442695
