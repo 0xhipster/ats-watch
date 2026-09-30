@@ -1,6 +1,4 @@
-# New matches (second lane), 2026-09-24 08:38 UTC
+# New matches (second lane), 2026-09-30 09:52 UTC
 
-- **signzy** | GTM Associates | Bangalore
-  https://signzy.keka.com/careers/jobdetails/142648
-- **gokwik** | Manager - Product Marketing | Bengaluru
-  https://gokwik.keka.com/careers/jobdetails/162747
+- **gokwik** | Manager - Retention Marketing | Bengaluru
+  https://gokwik.keka.com/careers/jobdetails/163248
