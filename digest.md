@@ -1,6 +1,8 @@
-# New matches, 2026-10-01 00:16 UTC
+# New matches, 2026-10-01 13:37 UTC
 
-- **Coinbase** | CRM and Lifecycle Manager II | Remote - USA
-  https://www.coinbase.com/careers/positions/8240375?gh_jid=8240375
-- **Coinbase** | Experiential Marketing Associate | Remote - USA
-  https://www.coinbase.com/careers/positions/8238576?gh_jid=8238576
+- **Swiggy** | Senior Manager- Growth | Bengaluru, KA, in
+  https://jobs.smartrecruiters.com/swiggy/6000000001455075
+- **Swiggy** | Lead - Marketing | Bengaluru, KA, in
+  https://jobs.smartrecruiters.com/swiggy/6000000001454106
+- **Emergent** | Human Resource Business Partner- Sales/ GTM | Bangalore
+  https://job-boards.greenhouse.io/emergentlabsinc/jobs/4429187009
