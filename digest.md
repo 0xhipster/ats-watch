@@ -1,8 +1,4 @@
-# New matches, 2026-10-01 13:37 UTC
+# New matches, 2026-10-02 02:22 UTC
 
-- **Swiggy** | Senior Manager- Growth | Bengaluru, KA, in
-  https://jobs.smartrecruiters.com/swiggy/6000000001455075
-- **Swiggy** | Lead - Marketing | Bengaluru, KA, in
-  https://jobs.smartrecruiters.com/swiggy/6000000001454106
-- **Emergent** | Human Resource Business Partner- Sales/ GTM | Bangalore
-  https://job-boards.greenhouse.io/emergentlabsinc/jobs/4429187009
+- **Coinbase** | Senior Marketing Manager, Brand Strategy | Remote - USA
+  https://www.coinbase.com/careers/positions/8242207?gh_jid=8242207
