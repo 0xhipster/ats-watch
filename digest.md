@@ -1,4 +1,4 @@
-# New matches, 2026-10-02 02:22 UTC
+# New matches, 2026-10-05 18:38 UTC
 
-- **Coinbase** | Senior Marketing Manager, Brand Strategy | Remote - USA
-  https://www.coinbase.com/careers/positions/8242207?gh_jid=8242207
+- **Curefit** | Regional Marketing Manager, Northern Europe | not stated
+  https://apply.workable.com/j/DFE5C996FC
