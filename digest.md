@@ -1,4 +1,6 @@
-# New matches, 2026-10-07 09:32 UTC
+# New matches, 2026-10-07 17:06 UTC
 
-- **Razorpay** | Associate Manager, Partnerships  | Bengaluru
-  https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4737935005
+- **Swiggy** | Assistant Manager - Growth Marketing | Bengaluru, KA, in
+  https://jobs.smartrecruiters.com/swiggy/6000000001469540
+- **Emergent** | Performance Marketing Leader | Bengaluru
+  https://job-boards.greenhouse.io/emergentlabsinc/jobs/4406352009

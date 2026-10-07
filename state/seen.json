@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-07T09:32:54.734631+00:00",
+"updated": "2026-10-07T17:06:17.882001+00:00",
 "uids": [
 "ashby:Bounce:018c40be-f9eb-46ca-84fa-90de5bf9f97c",
 "ashby:Bounce:0ef5aac0-cd80-463e-9ea1-679c29d96552",
@@ -685,6 +685,7 @@
 "greenhouse:emergentlabsinc:4386361009",
 "greenhouse:emergentlabsinc:4392191009",
 "greenhouse:emergentlabsinc:4403175009",
+"greenhouse:emergentlabsinc:4406352009",
 "greenhouse:emergentlabsinc:4407931009",
 "greenhouse:emergentlabsinc:4407932009",
 "greenhouse:emergentlabsinc:4407933009",
@@ -1325,6 +1326,7 @@
 "lever:stable-money1:9500efd9-42a7-4a88-8b30-4ce316dcab7e",
 "lever:stable-money1:9545c4e0-2002-43af-9509-2a5eee162007",
 "lever:stable-money1:975f82e7-a3d8-4ed3-be94-1922873e484f",
+"lever:stable-money1:9e6037dc-de62-4934-b3af-1a3ded9d3dd4",
 "lever:stable-money1:9feab72d-99fa-4a88-abef-2ea1c7c64047",
 "lever:stable-money1:a2b36af8-1398-446d-a58b-6013a9fb8771",
 "lever:stable-money1:a52a869d-08e2-4176-b7fb-00e6eabb91b7",
@@ -2047,6 +2049,9 @@
 "smartrecruiters:swiggy:6000000001469335",
 "smartrecruiters:swiggy:6000000001469362",
 "smartrecruiters:swiggy:6000000001469436",
+"smartrecruiters:swiggy:6000000001469540",
+"smartrecruiters:swiggy:6000000001469582",
+"smartrecruiters:swiggy:6000000001469588",
 "smartrecruiters:turtlemint:743999777021127",
 "smartrecruiters:vegrow:743999763274453",
 "smartrecruiters:vegrow:743999763382411",
