@@ -1,4 +1,4 @@
-# New matches, 2026-10-08 09:13 UTC
+# New matches, 2026-10-08 16:40 UTC
 
-- **Bounce** | Flexible Brand Ambassador, London Stations (Commission Based) | London
-  https://jobs.ashbyhq.com/Bounce/7535b9e8-cc22-4896-9d1a-b94aef1df67f
+- **Sprinto** | Organic Growth Manager | Bengaluru
+  https://jobs.lever.co/Sprinto/7759bc05-738b-4022-97c8-a91f9190d365
