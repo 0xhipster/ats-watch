@@ -1,6 +1,4 @@
-# New matches, 2026-10-07 17:06 UTC
+# New matches, 2026-10-08 09:13 UTC
 
-- **Swiggy** | Assistant Manager - Growth Marketing | Bengaluru, KA, in
-  https://jobs.smartrecruiters.com/swiggy/6000000001469540
-- **Emergent** | Performance Marketing Leader | Bengaluru
-  https://job-boards.greenhouse.io/emergentlabsinc/jobs/4406352009
+- **Bounce** | Flexible Brand Ambassador, London Stations (Commission Based) | London
+  https://jobs.ashbyhq.com/Bounce/7535b9e8-cc22-4896-9d1a-b94aef1df67f
