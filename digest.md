@@ -1,4 +1,6 @@
-# New matches, 2026-10-13 10:51 UTC
+# New matches, 2026-10-13 17:51 UTC
 
-- **Emergent** | Influencer Marketing Specialist | Bangalore
-  https://job-boards.greenhouse.io/emergentlabsinc/jobs/4094025009
+- **Swiggy** | Senior Manager - Growth | Bengaluru, KA, in
+  https://jobs.smartrecruiters.com/swiggy/6000000001484708
+- **Swiggy** | Senior Manager- Growth | Bengaluru, KA, in
+  https://jobs.smartrecruiters.com/swiggy/6000000001484698
