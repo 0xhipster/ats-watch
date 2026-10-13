@@ -1,4 +1,4 @@
-# New matches, 2026-10-09 08:11 UTC
+# New matches, 2026-10-13 10:51 UTC
 
-- **Groww** | Finance Content Creator | Bengaluru, India
-  https://job-boards.eu.greenhouse.io/groww/jobs/5000706101
+- **Emergent** | Influencer Marketing Specialist | Bangalore
+  https://job-boards.greenhouse.io/emergentlabsinc/jobs/4094025009
