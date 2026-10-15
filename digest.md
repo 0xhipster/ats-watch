@@ -1,6 +1,6 @@
-# New matches, 2026-10-13 17:51 UTC
+# New matches, 2026-10-15 20:43 UTC
 
-- **Swiggy** | Senior Manager - Growth | Bengaluru, KA, in
-  https://jobs.smartrecruiters.com/swiggy/6000000001484708
-- **Swiggy** | Senior Manager- Growth | Bengaluru, KA, in
-  https://jobs.smartrecruiters.com/swiggy/6000000001484698
+- **Coinbase** | Senior Product Marketing Manager, Infrastructure | Remote - USA
+  https://www.coinbase.com/careers/positions/8269052?gh_jid=8269052
+- **Coinbase** | Social Media Manager, Predictions | Remote - USA
+  https://www.coinbase.com/careers/positions/8269104?gh_jid=8269104
