@@ -1,6 +1,6 @@
-# New matches, 2026-10-15 20:43 UTC
+# New matches, 2026-10-19 10:34 UTC
 
-- **Coinbase** | Senior Product Marketing Manager, Infrastructure | Remote - USA
-  https://www.coinbase.com/careers/positions/8269052?gh_jid=8269052
-- **Coinbase** | Social Media Manager, Predictions | Remote - USA
-  https://www.coinbase.com/careers/positions/8269104?gh_jid=8269104
+- **Swiggy** | Senior Executive - Marketing | Bengaluru, in
+  https://jobs.smartrecruiters.com/swiggy/6000000001501334
+- **Bounce** | Senior Product Manager, Demand Growth  | Lisbon
+  https://jobs.ashbyhq.com/Bounce/5b35d9a7-4da5-4f41-88ac-916a7c6021bc
