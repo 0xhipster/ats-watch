@@ -1,4 +1,4 @@
-# New matches, 2026-10-19 17:15 UTC
+# New matches, 2026-10-20 19:29 UTC
 
-- **Swiggy** | Senior Executive - Content | Delhi, DL, in
-  https://jobs.smartrecruiters.com/swiggy/6000000001501550
+- **Supabase** | Growth Marketer, Creators & Channels | Remote, AMER
+  https://jobs.ashbyhq.com/supabase/d6af503b-acc4-40c9-83d8-d4fe0dcc2dd5
