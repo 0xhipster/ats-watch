@@ -481,9 +481,9 @@
     "name": "Procol",
     "domain": "procol.ai",
     "sector": "saas",
-    "ats": null,
-    "slug": null,
-    "method": "unresolved"
+    "ats": "unsupported:keka",
+    "slug": "procol",
+    "method": "careers-page"
   },
   {
     "name": "RapidCanvas",
