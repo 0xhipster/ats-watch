@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-26T11:53:55.784077+00:00",
+"updated": "2026-10-26T17:56:31.378450+00:00",
 "uids": [
 "ashby:Bounce:018c40be-f9eb-46ca-84fa-90de5bf9f97c",
 "ashby:Bounce:0ef5aac0-cd80-463e-9ea1-679c29d96552",
@@ -222,6 +222,7 @@
 "ashby:spotdraft:fac72e55-20eb-4d8f-8783-7f6d28df3504",
 "ashby:spotdraft:fcf8da74-e8f4-439c-808e-7b42e59550e1",
 "ashby:spotdraft:fd4baa7d-e222-4a1b-a395-b103d1ad5198",
+"ashby:supabase:05226c15-0501-4559-833d-3815fdf01f56",
 "ashby:supabase:06752423-eebb-472c-95b5-c7ff2559fd60",
 "ashby:supabase:11beb619-0c25-4b11-9818-3f18e278c65b",
 "ashby:supabase:13478d3f-0093-458f-9f84-af71e66db03f",
@@ -237,6 +238,7 @@
 "ashby:supabase:3ab0b926-c9b5-4197-aff2-88d5bf009e13",
 "ashby:supabase:3b5d54ca-741b-45ac-bd3f-31605a0d3541",
 "ashby:supabase:47bcfdb8-b954-423e-8a9e-85256434575c",
+"ashby:supabase:4857bb69-da99-4027-87f1-a6a4d03699b3",
 "ashby:supabase:4859464f-afab-4409-b295-4f4cbbfc41eb",
 "ashby:supabase:48950725-e0d9-4025-92d9-f75e1b60ce45",
 "ashby:supabase:4a85c92b-1d0d-43ee-8dbc-0e45a58be208",
@@ -717,6 +719,7 @@
 "greenhouse:coinbase:8304034",
 "greenhouse:coinbase:8304038",
 "greenhouse:coinbase:8311335",
+"greenhouse:coinbase:8311341",
 "greenhouse:coinbase:8314298",
 "greenhouse:coinbase:8318555",
 "greenhouse:coinbase:8318599",
@@ -1344,6 +1347,7 @@
 "lever:cred:aa501081-1787-4617-bfa9-9f4ecaf68f30",
 "lever:cred:aa98a938-af3a-45f5-851d-966b2b5bad33",
 "lever:cred:af4cc539-ea8b-4405-8067-2d7d729c9759",
+"lever:cred:b3da0ae4-d0a8-45ce-a1e5-73be12b4bfe3",
 "lever:cred:b3fdba2a-802c-4e03-b445-5284c5e3c157",
 "lever:cred:b532b595-bc8d-4b51-a2e6-7228ef1cabfc",
 "lever:cred:e7edcd33-9faa-4e2f-8a87-4a88719f94ec",
