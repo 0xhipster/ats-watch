@@ -1,4 +1,4 @@
-# New matches, 2026-10-27 07:03 UTC
+# New matches, 2026-10-27 13:25 UTC
 
-- **Swiggy** | General Manager - Marketing | Bengaluru, KA, in
-  https://jobs.smartrecruiters.com/swiggy/6000000001525406
+- **SpotDraft** | Community Manager - US | SpotDraft Inc. NY
+  https://jobs.ashbyhq.com/spotdraft/bbbcedb7-2d52-4803-bd00-863c8667e95e
