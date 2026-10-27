@@ -1,4 +1,4 @@
-# New matches, 2026-10-26 05:36 UTC
+# New matches, 2026-10-27 07:03 UTC
 
-- **Razorpay** | Product Marketing Manager, II | Bengaluru
-  https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4746985005
+- **Swiggy** | General Manager - Marketing | Bengaluru, KA, in
+  https://jobs.smartrecruiters.com/swiggy/6000000001525406
