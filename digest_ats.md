@@ -1,4 +1,4 @@
-# New matches (second lane), 2026-10-26 09:12 UTC
+# New matches (second lane), 2026-10-28 09:54 UTC
 
-- **Browserstack** | Senior Lead/Manager - Growth | Mumbai Remote
-  https://browserstack.wd3.myworkdayjobs.com/External/job/Mumbai-Remote/Senior-Lead-Manager---Growth_JR103747
+- **gokwik** | Manager - AI GTM and Market Intelligence | Bengaluru
+  https://gokwik.keka.com/careers/jobdetails/166936
