@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-29T17:12:42.964903+00:00",
+"updated": "2026-10-29T21:54:11.485460+00:00",
 "uids": [
 "ashby:Bounce:018c40be-f9eb-46ca-84fa-90de5bf9f97c",
 "ashby:Bounce:0ef5aac0-cd80-463e-9ea1-679c29d96552",
@@ -238,6 +238,7 @@
 "ashby:supabase:1acade7a-0b80-4c6c-9253-7c27a165739d",
 "ashby:supabase:23c9ce7e-6b7b-4316-8f00-8f318e902441",
 "ashby:supabase:26f7817d-ca92-4094-a2b5-f22e07a218c4",
+"ashby:supabase:282d1dfb-b162-4ce4-a938-c4b2173230e0",
 "ashby:supabase:2ab81e46-2e46-4120-938c-429b9f4aa7a7",
 "ashby:supabase:2e718684-4f75-4a99-8d6b-3b6bd44e4228",
 "ashby:supabase:344787f2-d115-4056-87ca-7668fc14be3d",
@@ -744,6 +745,7 @@
 "greenhouse:coinbase:8333981",
 "greenhouse:coinbase:8334152",
 "greenhouse:coinbase:8334157",
+"greenhouse:coinbase:8334234",
 "greenhouse:emergentlabsinc:4028982009",
 "greenhouse:emergentlabsinc:4028985009",
 "greenhouse:emergentlabsinc:4028986009",
@@ -1305,6 +1307,7 @@
 "lever:Zanskar:466184be-fa72-4b30-940d-ff68e40ce51e",
 "lever:Zanskar:52504f5a-a6a5-4b05-ac17-59b3c97d5edb",
 "lever:Zanskar:55c2dc8d-a240-4a06-a2b1-adf2b3bb2c95",
+"lever:Zanskar:6781a9bf-1e76-49f0-b739-41956b2fd4f4",
 "lever:Zanskar:6dbeb951-cc2a-4842-b70a-bdb318fc1a99",
 "lever:Zanskar:70e515c1-8615-48e9-b674-772144c59537",
 "lever:Zanskar:71ff0529-013d-47a9-b47f-8c02d10e3b5c",
