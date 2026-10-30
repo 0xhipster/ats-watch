@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-29T21:54:11.485460+00:00",
+"updated": "2026-10-30T01:26:41.824178+00:00",
 "uids": [
 "ashby:Bounce:018c40be-f9eb-46ca-84fa-90de5bf9f97c",
 "ashby:Bounce:0ef5aac0-cd80-463e-9ea1-679c29d96552",
@@ -746,6 +746,8 @@
 "greenhouse:coinbase:8334152",
 "greenhouse:coinbase:8334157",
 "greenhouse:coinbase:8334234",
+"greenhouse:coinbase:8335547",
+"greenhouse:coinbase:8335796",
 "greenhouse:emergentlabsinc:4028982009",
 "greenhouse:emergentlabsinc:4028985009",
 "greenhouse:emergentlabsinc:4028986009",
@@ -1311,6 +1313,7 @@
 "lever:Zanskar:6dbeb951-cc2a-4842-b70a-bdb318fc1a99",
 "lever:Zanskar:70e515c1-8615-48e9-b674-772144c59537",
 "lever:Zanskar:71ff0529-013d-47a9-b47f-8c02d10e3b5c",
+"lever:Zanskar:742514d7-8699-4105-8e02-23b456fd9734",
 "lever:Zanskar:87c47c05-b759-4522-9459-4d4a07443c41",
 "lever:Zanskar:8e14d7bc-d4e6-414a-afc2-064b755d78d7",
 "lever:Zanskar:927a3a3c-6b77-461e-8fd1-253f62cf2e74",
