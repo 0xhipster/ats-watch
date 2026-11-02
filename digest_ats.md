@@ -1,4 +1,4 @@
-# New matches (second lane), 2026-10-28 09:54 UTC
+# New matches (second lane), 2026-11-02 11:30 UTC
 
-- **gokwik** | Manager - AI GTM and Market Intelligence | Bengaluru
-  https://gokwik.keka.com/careers/jobdetails/166936
+- **Accenture** | Project Management Officer (Digital Marketing) | not stated
+  https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ho-ChiMinh-Viettel-Building/Project-Manager_R00303483
