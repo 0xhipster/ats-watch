@@ -1,4 +1,4 @@
-# New matches, 2026-11-04 17:40 UTC
+# New matches, 2026-11-05 11:17 UTC
 
-- **Supabase** | Senior Developer Relations, Twitter Brand Rep | Remote, Global
-  https://jobs.ashbyhq.com/supabase/985abb8d-cb2b-4f32-97d7-497e9f89e3ce
+- **SpotDraft** | Talent Community  | SpotDraft HQ, Bengaluru
+  https://jobs.ashbyhq.com/spotdraft/4fe2855c-ee2f-4372-8fde-12c67503427f
