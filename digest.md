@@ -1,4 +1,4 @@
-# New matches, 2026-11-05 11:17 UTC
+# New matches, 2026-11-06 12:19 UTC
 
-- **SpotDraft** | Talent Community  | SpotDraft HQ, Bengaluru
-  https://jobs.ashbyhq.com/spotdraft/4fe2855c-ee2f-4372-8fde-12c67503427f
+- **Coinbase** | Product Marketing Manager - EMEA | Remote - UK
+  https://www.coinbase.com/careers/positions/8350767?gh_jid=8350767
