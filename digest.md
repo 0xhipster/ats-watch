@@ -1,4 +1,4 @@
-# New matches, 2026-11-06 12:19 UTC
+# New matches, 2026-11-06 23:52 UTC
 
-- **Coinbase** | Product Marketing Manager - EMEA | Remote - UK
-  https://www.coinbase.com/careers/positions/8350767?gh_jid=8350767
+- **Supabase** | GTM, Strategic Planning  | Remote, Global
+  https://jobs.ashbyhq.com/supabase/1dfafad5-e177-4d31-bc94-e8b6d0a7a046
