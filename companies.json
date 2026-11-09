@@ -315,9 +315,9 @@
     "name": "Headout",
     "domain": "headout.com",
     "sector": "consumer",
-    "ats": null,
-    "slug": null,
-    "method": "unresolved"
+    "ats": "ashby",
+    "slug": "headout",
+    "method": "endpoint-probe"
   },
   {
     "name": "Accenture",
