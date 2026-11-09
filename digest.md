@@ -1,4 +1,4 @@
-# New matches, 2026-11-06 23:52 UTC
+# New matches, 2026-11-09 09:59 UTC
 
-- **Supabase** | GTM, Strategic Planning  | Remote, Global
-  https://jobs.ashbyhq.com/supabase/1dfafad5-e177-4d31-bc94-e8b6d0a7a046
+- **Gushwork** | Performance Marketing Manager | Bengaluru
+  https://jobs.lever.co/gushwork/46ea5ebb-43b1-43fd-a0e4-cc88f2294366
