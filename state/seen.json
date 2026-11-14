@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-13T18:38:07.293979+00:00",
+"updated": "2026-11-14T00:03:39.939170+00:00",
 "uids": [
 "ashby:Bounce:018c40be-f9eb-46ca-84fa-90de5bf9f97c",
 "ashby:Bounce:0ef5aac0-cd80-463e-9ea1-679c29d96552",
@@ -878,6 +878,7 @@
 "greenhouse:coinbase:8356842",
 "greenhouse:coinbase:8356846",
 "greenhouse:coinbase:8356850",
+"greenhouse:coinbase:8357227",
 "greenhouse:coinbase:8357772",
 "greenhouse:coinbase:8359446",
 "greenhouse:coinbase:8359515",
@@ -1049,6 +1050,7 @@
 "greenhouse:nurix:8932620002",
 "greenhouse:nurix:8932660002",
 "greenhouse:nurix:8932672002",
+"greenhouse:nurix:8943633002",
 "greenhouse:phonepe:4353886003",
 "greenhouse:phonepe:6574130003",
 "greenhouse:phonepe:7594427003",
