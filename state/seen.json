@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-19T17:29:57.778222+00:00",
+"updated": "2026-11-19T23:43:19.489460+00:00",
 "uids": [
 "ashby:Bounce:018c40be-f9eb-46ca-84fa-90de5bf9f97c",
 "ashby:Bounce:0ef5aac0-cd80-463e-9ea1-679c29d96552",
@@ -290,6 +290,7 @@
 "ashby:supabase:180257c0-ad46-4fae-b34f-36d8ddc2fe2e",
 "ashby:supabase:1acade7a-0b80-4c6c-9253-7c27a165739d",
 "ashby:supabase:1dfafad5-e177-4d31-bc94-e8b6d0a7a046",
+"ashby:supabase:2184cfbd-927e-4d3c-b34a-f2301d3e8281",
 "ashby:supabase:23c9ce7e-6b7b-4316-8f00-8f318e902441",
 "ashby:supabase:26f7817d-ca92-4094-a2b5-f22e07a218c4",
 "ashby:supabase:282d1dfb-b162-4ce4-a938-c4b2173230e0",
@@ -898,6 +899,7 @@
 "greenhouse:coinbase:8359446",
 "greenhouse:coinbase:8359515",
 "greenhouse:coinbase:8360386",
+"greenhouse:coinbase:8360760",
 "greenhouse:coinbase:8366842",
 "greenhouse:coinbase:8368072",
 "greenhouse:coinbase:8368463",
@@ -1457,6 +1459,8 @@
 "greenhouse:slice:8352264",
 "greenhouse:slice:8358789",
 "greenhouse:slice:8366556",
+"greenhouse:slice:8372287",
+"greenhouse:slice:8402971",
 "lever:Sprinto:0c1dd527-2960-4377-96f9-353309cf6b85",
 "lever:Sprinto:118943b2-e5cb-4002-8cd9-d7e77061fe49",
 "lever:Sprinto:151dd41f-692b-4c2f-a599-f5301e53b84b",
