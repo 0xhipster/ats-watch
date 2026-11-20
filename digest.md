@@ -1,4 +1,4 @@
-# New matches, 2026-11-19 08:11 UTC
+# New matches, 2026-11-20 13:44 UTC
 
-- **Swiggy** | Senior Growth Manager I | Bengaluru, KA, in
-  https://jobs.smartrecruiters.com/swiggy/6000000001591986
+- **Sprinto** | Manager - Content Marketing | Bengaluru
+  https://jobs.lever.co/Sprinto/438e57f0-5d7b-4984-92db-ff3f9e04b2e6
