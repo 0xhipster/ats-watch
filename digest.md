@@ -1,4 +1,6 @@
-# New matches, 2026-11-23 15:32 UTC
+# New matches, 2026-11-24 23:09 UTC
 
-- **Curefit** | Senior Product Marketing Manager | not stated
-  https://apply.workable.com/j/2A6452681E
+- **Coinbase** | Brand Partnership Associate - esports, Gaming & Internet Culture | Remote - USA
+  https://www.coinbase.com/careers/positions/8411576?gh_jid=8411576
+- **Coinbase** | Brand Partnership Associate, Sports | Remote - USA
+  https://www.coinbase.com/careers/positions/8268156?gh_jid=8268156
