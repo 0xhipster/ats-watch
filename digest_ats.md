@@ -1,4 +1,4 @@
-# New matches (second lane), 2026-11-02 11:30 UTC
+# New matches (second lane), 2026-11-24 14:03 UTC
 
-- **Accenture** | Project Management Officer (Digital Marketing) | not stated
-  https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ho-ChiMinh-Viettel-Building/Project-Manager_R00303483
+- **signzy** | Founder's Office - Branding | not stated
+  https://signzy.keka.com/careers/jobdetails/148030
