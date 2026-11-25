@@ -1,6 +1,6 @@
-# New matches, 2026-11-24 23:09 UTC
+# New matches, 2026-11-25 16:29 UTC
 
-- **Coinbase** | Brand Partnership Associate - esports, Gaming & Internet Culture | Remote - USA
-  https://www.coinbase.com/careers/positions/8411576?gh_jid=8411576
-- **Coinbase** | Brand Partnership Associate, Sports | Remote - USA
-  https://www.coinbase.com/careers/positions/8268156?gh_jid=8268156
+- **Razorpay** | Manager, Product Marketing | Bengaluru
+  https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4758202005
+- **Headout** | Senior Manager, Partner Marketing | Bengaluru
+  https://jobs.ashbyhq.com/headout/e69f6542-59ea-471c-92d1-e9cc66b57ee6
