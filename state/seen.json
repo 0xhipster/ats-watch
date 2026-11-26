@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-26T09:01:45.253909+00:00",
+"updated": "2026-11-26T19:11:19.390672+00:00",
 "uids": [
 "ashby:Bounce:018c40be-f9eb-46ca-84fa-90de5bf9f97c",
 "ashby:Bounce:0ef5aac0-cd80-463e-9ea1-679c29d96552",
@@ -391,6 +391,7 @@
 "ashby:supabase:dca463e6-b6d0-4003-a30b-e0970a8dcee2",
 "ashby:supabase:dcf09dfe-55bc-44ba-b5db-1a2de7f33216",
 "ashby:supabase:dd3f74dc-29f8-46b1-bcfb-b7f090b7146a",
+"ashby:supabase:e1880633-5d58-4f38-833e-1bdef24d0bf9",
 "ashby:supabase:e4e3ccb7-7b7d-42a2-be0f-26cbb5ae4abd",
 "ashby:supabase:e569b7f7-fa8f-4139-86f6-4f52b456882d",
 "ashby:supabase:e84502e7-9dab-437a-af38-9da03542fab7",
@@ -1055,6 +1056,7 @@
 "greenhouse:groww:5000618101",
 "greenhouse:groww:5000706101",
 "greenhouse:groww:5042260101",
+"greenhouse:groww:5049076101",
 "greenhouse:nurix:8535319002",
 "greenhouse:nurix:8535914002",
 "greenhouse:nurix:8546901002",
@@ -1527,6 +1529,7 @@
 "lever:Sprinto:55ff3988-dcb7-4e0f-afbf-d4eafc624450",
 "lever:Sprinto:56d536c2-812c-49be-8421-6ad63c42a273",
 "lever:Sprinto:5b40eae5-a2e4-47f5-8cad-13d87d3db4b5",
+"lever:Sprinto:5ca7f8de-8ff6-4738-8ef7-c8308a3095fc",
 "lever:Sprinto:5e45ac8b-4f96-4c26-8c8a-7530a6021751",
 "lever:Sprinto:5e866b3b-5580-4f00-ad16-3bbf3beb0ea3",
 "lever:Sprinto:61e21cb7-5a22-41a6-8fb1-d195a3a544ea",
@@ -2994,6 +2997,7 @@
 "smartrecruiters:swiggy:6000000001607103",
 "smartrecruiters:swiggy:6000000001607109",
 "smartrecruiters:swiggy:6000000001610063",
+"smartrecruiters:swiggy:6000000001610692",
 "smartrecruiters:turtlemint:743999777021127",
 "smartrecruiters:vegrow:743999763274453",
 "smartrecruiters:vegrow:743999763382411",
